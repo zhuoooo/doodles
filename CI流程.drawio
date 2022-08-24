@@ -1,1 +1,112 @@
-<mxfile host="app.diagrams.net" modified="2022-08-24T02:44:49.681Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.2.3" etag="TTwTAk7bEYAZSsVPp1Jl" type="github"><diagram id="nF1FlLgRceZofnoqKQiD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-24T08:50:07.748Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="BWE6jXzB6otDTnngJYeQ" version="20.2.3" type="github" pages="3">
+  <diagram id="nF1FlLgRceZofnoqKQiD" name="流程图">
+    <mxGraphModel dx="1412" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YcuVO8Qrycit5lz5gftT-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YcuVO8Qrycit5lz5gftT-1" target="YcuVO8Qrycit5lz5gftT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YcuVO8Qrycit5lz5gftT-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YcuVO8Qrycit5lz5gftT-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YcuVO8Qrycit5lz5gftT-2" target="YcuVO8Qrycit5lz5gftT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YcuVO8Qrycit5lz5gftT-2" value="拉取 web-images" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YcuVO8Qrycit5lz5gftT-9" value="&lt;span style=&quot;background-color: rgb(248, 249, 250);&quot;&gt;make build&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YcuVO8Qrycit5lz5gftT-4" target="YcuVO8Qrycit5lz5gftT-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YcuVO8Qrycit5lz5gftT-4" value="拉取目标分支代码" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YcuVO8Qrycit5lz5gftT-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YcuVO8Qrycit5lz5gftT-8" target="YcuVO8Qrycit5lz5gftT-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="01_sxP1hkrg45GvrK--A-2" value="docker build" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YcuVO8Qrycit5lz5gftT-8" target="01_sxP1hkrg45GvrK--A-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YcuVO8Qrycit5lz5gftT-8" value="得到前端 dist 包" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YcuVO8Qrycit5lz5gftT-10" value="制品库" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E5ujW5oy_VIg_HHM-fPJ-1" value="project.tar.gz" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="160" width="150" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="E5ujW5oy_VIg_HHM-fPJ-2" value="Makefile" style="html=1;" vertex="1" parent="E5ujW5oy_VIg_HHM-fPJ-1">
+          <mxGeometry width="110" height="30" relative="1" as="geometry">
+            <mxPoint x="20" y="50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E5ujW5oy_VIg_HHM-fPJ-3" value="Dockerfile" style="html=1;" vertex="1" parent="E5ujW5oy_VIg_HHM-fPJ-1">
+          <mxGeometry x="20" y="90" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E5ujW5oy_VIg_HHM-fPJ-4" value="chart" style="html=1;" vertex="1" parent="E5ujW5oy_VIg_HHM-fPJ-1">
+          <mxGeometry x="20" y="136" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E5ujW5oy_VIg_HHM-fPJ-5" value="dist" style="html=1;" vertex="1" parent="E5ujW5oy_VIg_HHM-fPJ-1">
+          <mxGeometry x="20" y="180" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E5ujW5oy_VIg_HHM-fPJ-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="E5ujW5oy_VIg_HHM-fPJ-1" target="E5ujW5oy_VIg_HHM-fPJ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="320" as="sourcePoint" />
+            <mxPoint x="50" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="01_sxP1hkrg45GvrK--A-4" value="helm package" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="01_sxP1hkrg45GvrK--A-1" target="01_sxP1hkrg45GvrK--A-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="01_sxP1hkrg45GvrK--A-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="01_sxP1hkrg45GvrK--A-1" target="01_sxP1hkrg45GvrK--A-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="01_sxP1hkrg45GvrK--A-1" value="镜像包" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="01_sxP1hkrg45GvrK--A-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="01_sxP1hkrg45GvrK--A-3" target="01_sxP1hkrg45GvrK--A-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="01_sxP1hkrg45GvrK--A-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="01_sxP1hkrg45GvrK--A-3" target="01_sxP1hkrg45GvrK--A-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="01_sxP1hkrg45GvrK--A-3" value="helm 包" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="01_sxP1hkrg45GvrK--A-5" value="镜像库" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="580" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="01_sxP1hkrg45GvrK--A-7" value="helm 库" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="720" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="01_sxP1hkrg45GvrK--A-9" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_13Su3Gx6qmhDClGuKqd" name="Makefile">
+    <mxGraphModel dx="1412" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NknDx_0dGTUvm-odx9j6-1" value="push_helm:&#xa;	@cd chart &amp;&amp; helm package sase-platform-portal --version $(VERSION)&#xa;	@sfspm upload ./chart/sase-platform-portal-$(VERSION).tgz $(HELM_REPOSITORY)&#xa;&#xa;&#xa;push:&#xa;	# 推送镜像到harbor仓库&#xa;	@docker push $(REPOSITORY_PATH)/$(REPOSITORY_KEY)/sase-platform-portal:$(VERSION)&#xa;	# 删除本地镜像&#xa;	@docker rmi $(REPOSITORY_PATH)/$(REPOSITORY_KEY)/sase-platform-portal:$(VERSION)&#xa;&#xa;&#xa;image:&#xa;	@echo build image for sase-platform-portal:$(VERSION)&#xa;	# 从将当前目录编译成镜像&#xa;	@docker build -t $(REPOSITORY_PATH)/$(REPOSITORY_KEY)/sase-platform-portal:$(VERSION) .&#xa;&#xa;&#xa;build:&#xa;	# 编译打包&#xa;	@cd ../../ &amp;&amp; pnpm install --registry=http://npm.uedc.sangfor.com.cn/&#xa;	@pnpm build&#xa;	# 将版本信息都加到容器内部&#xa;	@echo $(BRANCH)-$(VERSION)-$(DATE) &gt; ./dist/appversion&#xa;	# 打包&#xa;	@tar -zcvf SAK8S_sase-platform_$(BRANCH)_$(VERSION)_$(DATE).tar.gz Makefile Dockerfile dist chart" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="134" y="170" width="560" height="430" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="d4tfKa36iEeXLnv34r6q" name="Dockerfile">
+    <mxGraphModel dx="1412" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nPLKHdW6Ax1fO0wNNrb1-1" value="FROM nginx:1.21.0&#xa;&#xa;&#xa;RUN mkdir -p /data/sa/service/webui&#xa;COPY ./dist  /data/sa/service/webui&#xa;&#xa;&#xa;CMD [&quot;nginx&quot;, &quot;-g&quot;, &quot;daemon off;&quot;]" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="180" width="230" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
