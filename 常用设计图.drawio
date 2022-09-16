@@ -1,124 +1,141 @@
-<mxfile host="app.diagrams.net" modified="2022-09-16T10:02:47.270Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="pbyvxhBhlK4Tgu6ufH0M" version="20.2.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-09-16T15:59:41.230Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="rJxuB7lgqPClsJQoWaYl" version="20.3.1" type="github" pages="7">
   <diagram id="0Ow7JCT5GjLpRwJ48kYp" name="图使用">
-    <mxGraphModel dx="3899" dy="1715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3903" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="a0KqODcTcx4Mew9SkHHI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=classic;endFill=1;" edge="1" parent="1" source="a0KqODcTcx4Mew9SkHHI-2">
+        <mxCell id="a0KqODcTcx4Mew9SkHHI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=classic;endFill=1;" parent="1" source="a0KqODcTcx4Mew9SkHHI-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-680" y="-80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a0KqODcTcx4Mew9SkHHI-2" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;rounded=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="a0KqODcTcx4Mew9SkHHI-2" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;rounded=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-850" y="-110" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a0KqODcTcx4Mew9SkHHI-3" value="&lt;h1&gt;开始&lt;/h1&gt;&lt;p&gt;表示开始/结束；一个流程图必须有的。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="a0KqODcTcx4Mew9SkHHI-3" value="&lt;h1&gt;开始&lt;/h1&gt;&lt;p&gt;表示开始/结束；一个流程图必须有的。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-550" y="-140" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="a0KqODcTcx4Mew9SkHHI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=classic;endFill=1;" edge="1" parent="1" source="a0KqODcTcx4Mew9SkHHI-5" target="a0KqODcTcx4Mew9SkHHI-6">
+        <mxCell id="a0KqODcTcx4Mew9SkHHI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=classic;endFill=1;" parent="1" source="a0KqODcTcx4Mew9SkHHI-5" target="a0KqODcTcx4Mew9SkHHI-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a0KqODcTcx4Mew9SkHHI-5" value="点击新增" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;strokeColor=#1A1A1A;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="a0KqODcTcx4Mew9SkHHI-5" value="点击新增" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;strokeColor=#1A1A1A;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-910" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a0KqODcTcx4Mew9SkHHI-6" value="出现弹窗" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;strokeColor=#1A1A1A;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="a0KqODcTcx4Mew9SkHHI-6" value="出现弹窗" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;strokeColor=#1A1A1A;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-730" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a0KqODcTcx4Mew9SkHHI-7" value="&lt;h1&gt;操作&lt;/h1&gt;&lt;p&gt;表示操作、事件；&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="a0KqODcTcx4Mew9SkHHI-7" value="&lt;h1&gt;操作&lt;/h1&gt;&lt;p&gt;表示操作、事件；&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-550" y="10" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="a0KqODcTcx4Mew9SkHHI-8" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=classic;endFill=1;" edge="1" parent="1" source="a0KqODcTcx4Mew9SkHHI-10">
+        <mxCell id="a0KqODcTcx4Mew9SkHHI-8" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=classic;endFill=1;" parent="1" source="a0KqODcTcx4Mew9SkHHI-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-850" y="295" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a0KqODcTcx4Mew9SkHHI-9" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=classic;endFill=1;" edge="1" parent="1" source="a0KqODcTcx4Mew9SkHHI-10">
+        <mxCell id="a0KqODcTcx4Mew9SkHHI-9" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=classic;endFill=1;" parent="1" source="a0KqODcTcx4Mew9SkHHI-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-700" y="295" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a0KqODcTcx4Mew9SkHHI-10" value="是否正确" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="a0KqODcTcx4Mew9SkHHI-10" value="是否正确" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-820" y="185" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="a0KqODcTcx4Mew9SkHHI-11" value="&lt;h1&gt;判断&lt;/h1&gt;&lt;p&gt;表示决策事件；出现之后会出现分支&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="a0KqODcTcx4Mew9SkHHI-11" value="&lt;h1&gt;判断&lt;/h1&gt;&lt;p&gt;表示决策事件；出现之后会出现分支&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-550" y="180" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="a0KqODcTcx4Mew9SkHHI-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=classic;endFill=1;" edge="1" parent="1" source="a0KqODcTcx4Mew9SkHHI-13" target="a0KqODcTcx4Mew9SkHHI-15">
+        <mxCell id="a0KqODcTcx4Mew9SkHHI-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=classic;endFill=1;" parent="1" source="a0KqODcTcx4Mew9SkHHI-13" target="a0KqODcTcx4Mew9SkHHI-15" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-700" y="400" as="targetPoint" />
+            <mxPoint x="-700" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a0KqODcTcx4Mew9SkHHI-13" value="列表数据" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-890" y="370" width="100" height="60" as="geometry" />
+        <mxCell id="a0KqODcTcx4Mew9SkHHI-13" value="列表数据" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-890" y="390" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a0KqODcTcx4Mew9SkHHI-14" value="&lt;h1&gt;数据&lt;/h1&gt;&lt;p&gt;表示各种数据；常见于场景中某个操作的前置数据，例子：表格加载&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-550" y="330" width="190" height="120" as="geometry" />
+        <mxCell id="a0KqODcTcx4Mew9SkHHI-14" value="&lt;h1&gt;数据&lt;/h1&gt;&lt;p&gt;表示各种数据；常见于场景中某个操作的前置数据，例子：表格加载&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-550" y="350" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="a0KqODcTcx4Mew9SkHHI-15" value="渲染数据" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;strokeColor=#1A1A1A;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-730" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="a0KqODcTcx4Mew9SkHHI-15" value="渲染数据" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;strokeColor=#1A1A1A;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-730" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a0KqODcTcx4Mew9SkHHI-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=classic;endFill=1;" edge="1" parent="1" source="a0KqODcTcx4Mew9SkHHI-19" target="a0KqODcTcx4Mew9SkHHI-22">
+        <mxCell id="a0KqODcTcx4Mew9SkHHI-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=classic;endFill=1;" parent="1" source="a0KqODcTcx4Mew9SkHHI-19" target="a0KqODcTcx4Mew9SkHHI-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-670" y="510" />
-              <mxPoint x="-850" y="510" />
+              <mxPoint x="-670" y="540" />
+              <mxPoint x="-850" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a0KqODcTcx4Mew9SkHHI-17" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=阿里汉仪智能黑体;" vertex="1" connectable="0" parent="a0KqODcTcx4Mew9SkHHI-16">
+        <mxCell id="a0KqODcTcx4Mew9SkHHI-17" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=阿里汉仪智能黑体;" parent="a0KqODcTcx4Mew9SkHHI-16" vertex="1" connectable="0">
           <mxGeometry x="-0.2231" relative="1" as="geometry">
             <mxPoint y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a0KqODcTcx4Mew9SkHHI-18" value="False" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=classic;endFill=1;" edge="1" parent="1" source="a0KqODcTcx4Mew9SkHHI-19">
+        <mxCell id="a0KqODcTcx4Mew9SkHHI-18" value="False" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=classic;endFill=1;" parent="1" source="a0KqODcTcx4Mew9SkHHI-19" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-670" y="670" as="targetPoint" />
+            <mxPoint x="-670" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a0KqODcTcx4Mew9SkHHI-19" value="循环条件：10次" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;rounded=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-720" y="550" width="100" height="60" as="geometry" />
+        <mxCell id="a0KqODcTcx4Mew9SkHHI-19" value="循环条件：10次" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;rounded=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-720" y="580" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a0KqODcTcx4Mew9SkHHI-20" value="&lt;h1&gt;循环&lt;/h1&gt;&lt;p&gt;表示循环条件；例子：列表数据，一次加载10条数据&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-550" y="520" width="190" height="120" as="geometry" />
+        <mxCell id="a0KqODcTcx4Mew9SkHHI-20" value="&lt;h1&gt;循环&lt;/h1&gt;&lt;p&gt;表示循环条件；例子：列表数据，一次加载10条数据&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-550" y="550" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="a0KqODcTcx4Mew9SkHHI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=classic;endFill=1;" edge="1" parent="1" source="a0KqODcTcx4Mew9SkHHI-22" target="a0KqODcTcx4Mew9SkHHI-19">
+        <mxCell id="a0KqODcTcx4Mew9SkHHI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=classic;endFill=1;" parent="1" source="a0KqODcTcx4Mew9SkHHI-22" target="a0KqODcTcx4Mew9SkHHI-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a0KqODcTcx4Mew9SkHHI-22" value="获取一次列表数据" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;strokeColor=#1A1A1A;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-910" y="550" width="120" height="60" as="geometry" />
+        <mxCell id="a0KqODcTcx4Mew9SkHHI-22" value="获取一次列表数据" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;strokeColor=#1A1A1A;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-910" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a0KqODcTcx4Mew9SkHHI-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=classic;endFill=1;" edge="1" parent="1" source="a0KqODcTcx4Mew9SkHHI-24">
+        <mxCell id="a0KqODcTcx4Mew9SkHHI-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=classic;endFill=1;" parent="1" source="a0KqODcTcx4Mew9SkHHI-24" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-670" y="840" as="targetPoint" />
+            <mxPoint x="-670" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a0KqODcTcx4Mew9SkHHI-24" value="新增应用" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;strokeColor=#1A1A1A;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-730" y="720" width="120" height="60" as="geometry" />
+        <mxCell id="a0KqODcTcx4Mew9SkHHI-24" value="新增应用" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;strokeColor=#1A1A1A;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-730" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a0KqODcTcx4Mew9SkHHI-25" value="&lt;h1&gt;子流程&lt;/h1&gt;&lt;p&gt;表示另外一个完整的流程；常用于一个流程中嵌套了另外一个通用的逻辑而不是一个简单的操作。例子：跳到另一个页面&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-550" y="690" width="190" height="150" as="geometry" />
+        <mxCell id="a0KqODcTcx4Mew9SkHHI-25" value="&lt;h1&gt;子流程&lt;/h1&gt;&lt;p&gt;表示另外一个完整的流程；常用于一个流程中嵌套了另外一个通用的逻辑而不是一个简单的操作。例子：跳到另一个页面&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-550" y="720" width="190" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="a0KqODcTcx4Mew9SkHHI-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=classic;endFill=1;" edge="1" parent="1" source="a0KqODcTcx4Mew9SkHHI-27" target="a0KqODcTcx4Mew9SkHHI-24">
+        <mxCell id="a0KqODcTcx4Mew9SkHHI-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=classic;endFill=1;" parent="1" source="a0KqODcTcx4Mew9SkHHI-27" target="a0KqODcTcx4Mew9SkHHI-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a0KqODcTcx4Mew9SkHHI-27" value="跳到应用页" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;strokeColor=#1A1A1A;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-910" y="720" width="120" height="60" as="geometry" />
+        <mxCell id="a0KqODcTcx4Mew9SkHHI-27" value="跳到应用页" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;strokeColor=#1A1A1A;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-910" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w5TfK2zOJkfKucBfdWeP-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pic3.zhimg.com/v2-5cccb1dbeaf84ad18660bf3cd5826dbe_r.jpg;" vertex="1" parent="1">
+        <mxCell id="w5TfK2zOJkfKucBfdWeP-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pic3.zhimg.com/v2-5cccb1dbeaf84ad18660bf3cd5826dbe_r.jpg;" parent="1" vertex="1">
           <mxGeometry x="-1750" y="-135" width="766.78" height="435" as="geometry" />
+        </mxCell>
+        <mxCell id="UCKZ2Q_eI1I-sj47isk2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UCKZ2Q_eI1I-sj47isk2-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-30" y="147.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UCKZ2Q_eI1I-sj47isk2-1" value="输入账号密码" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fontSize=14;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="37.5" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UCKZ2Q_eI1I-sj47isk2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;" edge="1" parent="1" source="UCKZ2Q_eI1I-sj47isk2-2" target="UCKZ2Q_eI1I-sj47isk2-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UCKZ2Q_eI1I-sj47isk2-2" value="打开弹窗" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;strokeColor=#1A1A1A;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="37.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UCKZ2Q_eI1I-sj47isk2-5" value="&lt;h1&gt;表单类&lt;/h1&gt;&lt;p&gt;表示手动输入内容；常用于键盘输入的场景。例子：填写表单&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-7.5" width="190" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="OMi9P-udnUN90HtaRdLu" name="基本流程图">
-    <mxGraphModel dx="2245" dy="1715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RWPMWBLEITRf5Ue282e1-1" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;" parent="1" source="RWPMWBLEITRf5Ue282e1-2" target="RWPMWBLEITRf5Ue282e1-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OEU-2yujjEtkwBlndGsu-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=classic;endFill=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="RWPMWBLEITRf5Ue282e1-2" target="OEU-2yujjEtkwBlndGsu-6">
+        <mxCell id="OEU-2yujjEtkwBlndGsu-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=classic;endFill=1;edgeStyle=orthogonalEdgeStyle;" parent="1" source="RWPMWBLEITRf5Ue282e1-2" target="OEU-2yujjEtkwBlndGsu-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="70" as="targetPoint" />
           </mxGeometry>
@@ -140,10 +157,10 @@
         <mxCell id="RWPMWBLEITRf5Ue282e1-5" value="是否通电？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSize=14;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;" parent="1" vertex="1">
           <mxGeometry x="310" y="170" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="s1PAAfIKxOOCVqdg-I9Z-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=classic;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;" edge="1" parent="1" source="RWPMWBLEITRf5Ue282e1-6" target="F3lPO6Og-AA01Zl45GUm-1">
+        <mxCell id="s1PAAfIKxOOCVqdg-I9Z-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=classic;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=0;" parent="1" source="RWPMWBLEITRf5Ue282e1-6" target="F3lPO6Og-AA01Zl45GUm-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QLsCSTX1UD4tIitnedBa-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=classic;endFill=1;" edge="1" parent="1" source="RWPMWBLEITRf5Ue282e1-6" target="QLsCSTX1UD4tIitnedBa-4">
+        <mxCell id="QLsCSTX1UD4tIitnedBa-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=classic;endFill=1;" parent="1" source="RWPMWBLEITRf5Ue282e1-6" target="QLsCSTX1UD4tIitnedBa-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RWPMWBLEITRf5Ue282e1-6" value="通电" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;" parent="1" vertex="1">
@@ -163,12 +180,12 @@
         <mxCell id="RWPMWBLEITRf5Ue282e1-9" value="可维修？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSize=14;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;" parent="1" vertex="1">
           <mxGeometry x="310" y="430" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="F3lPO6Og-AA01Zl45GUm-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;shadow=0;" edge="1" parent="1" source="uLJsTBXCzgYsL3XrusuO-5" target="F3lPO6Og-AA01Zl45GUm-1">
+        <mxCell id="F3lPO6Og-AA01Zl45GUm-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;shadow=0;" parent="1" source="uLJsTBXCzgYsL3XrusuO-5" target="F3lPO6Og-AA01Zl45GUm-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="620" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uLJsTBXCzgYsL3XrusuO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;fontColor=#1A1A1A;endArrow=classic;endFill=1;" edge="1" parent="1" source="RWPMWBLEITRf5Ue282e1-11" target="F3lPO6Og-AA01Zl45GUm-1">
+        <mxCell id="uLJsTBXCzgYsL3XrusuO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;fontColor=#1A1A1A;endArrow=classic;endFill=1;" parent="1" source="RWPMWBLEITRf5Ue282e1-11" target="F3lPO6Og-AA01Zl45GUm-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="160" y="650" />
@@ -179,137 +196,248 @@
         <mxCell id="RWPMWBLEITRf5Ue282e1-11" value="换个灯" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;" parent="1" vertex="1">
           <mxGeometry x="100" y="450" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F3lPO6Og-AA01Zl45GUm-1" value="结束" style="ellipse;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSize=14;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;" vertex="1" parent="1">
+        <mxCell id="F3lPO6Og-AA01Zl45GUm-1" value="结束" style="ellipse;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSize=14;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;" parent="1" vertex="1">
           <mxGeometry x="320" y="690" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F3lPO6Og-AA01Zl45GUm-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;shadow=0;" edge="1" parent="1" source="F3lPO6Og-AA01Zl45GUm-5" target="RWPMWBLEITRf5Ue282e1-2">
+        <mxCell id="F3lPO6Og-AA01Zl45GUm-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;shadow=0;" parent="1" source="F3lPO6Og-AA01Zl45GUm-5" target="RWPMWBLEITRf5Ue282e1-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F3lPO6Og-AA01Zl45GUm-5" value="开始" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;shadow=0;" vertex="1" parent="1">
+        <mxCell id="F3lPO6Og-AA01Zl45GUm-5" value="开始" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="-60" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="s1PAAfIKxOOCVqdg-I9Z-32" value="操作流程一般都是有开始、结束节点的" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;" vertex="1" parent="1">
+        <mxCell id="s1PAAfIKxOOCVqdg-I9Z-32" value="操作流程一般都是有开始、结束节点的" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;" parent="1" vertex="1">
           <mxGeometry x="115" y="-130" width="90" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="s1PAAfIKxOOCVqdg-I9Z-37" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;shadow=0;fontFamily=阿里汉仪智能黑体;fontSize=14;fontColor=default;align=center;strokeColor=default;" edge="1" parent="1" source="s1PAAfIKxOOCVqdg-I9Z-32" target="F3lPO6Og-AA01Zl45GUm-5">
+        <mxCell id="s1PAAfIKxOOCVqdg-I9Z-37" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;shadow=0;fontFamily=阿里汉仪智能黑体;fontSize=14;fontColor=default;align=center;strokeColor=default;" parent="1" source="s1PAAfIKxOOCVqdg-I9Z-32" target="F3lPO6Og-AA01Zl45GUm-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="30" as="sourcePoint" />
             <mxPoint x="280.71067811865476" y="-20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s1PAAfIKxOOCVqdg-I9Z-39" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;" edge="1" parent="1" source="RWPMWBLEITRf5Ue282e1-2" target="OEU-2yujjEtkwBlndGsu-11">
+        <mxCell id="s1PAAfIKxOOCVqdg-I9Z-39" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;" parent="1" source="RWPMWBLEITRf5Ue282e1-2" target="OEU-2yujjEtkwBlndGsu-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="120" as="sourcePoint" />
             <mxPoint x="520" y="50.95238095238096" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OEU-2yujjEtkwBlndGsu-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;" edge="1" parent="1" source="QLsCSTX1UD4tIitnedBa-9" target="RWPMWBLEITRf5Ue282e1-6">
+        <mxCell id="OEU-2yujjEtkwBlndGsu-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;" parent="1" source="QLsCSTX1UD4tIitnedBa-9" target="RWPMWBLEITRf5Ue282e1-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="565" y="160" as="sourcePoint" />
             <mxPoint x="565" y="180.71067811865476" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OEU-2yujjEtkwBlndGsu-3" value="流程图遇到决策才会产生分支。在操作后边产生分支，会导致整个图的流向不清晰。" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#FFFECB;strokeColor=#FEA82F;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;align=left;" vertex="1" parent="1">
+        <mxCell id="OEU-2yujjEtkwBlndGsu-3" value="流程图遇到决策才会产生分支。在操作后边产生分支，会导致整个图的流向不清晰。" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#FFFECB;strokeColor=#FEA82F;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;align=left;" parent="1" vertex="1">
           <mxGeometry x="110" y="160" width="110" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="OEU-2yujjEtkwBlndGsu-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;" edge="1" parent="1" source="OEU-2yujjEtkwBlndGsu-3" target="RWPMWBLEITRf5Ue282e1-5">
+        <mxCell id="OEU-2yujjEtkwBlndGsu-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;" parent="1" source="OEU-2yujjEtkwBlndGsu-3" target="RWPMWBLEITRf5Ue282e1-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="240" as="sourcePoint" />
             <mxPoint x="300.71067811865476" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OEU-2yujjEtkwBlndGsu-6" value="检查开关" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;strokeColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="OEU-2yujjEtkwBlndGsu-6" value="检查开关" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;strokeColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="85" y="50" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OEU-2yujjEtkwBlndGsu-7" value="" style="swimlane;startSize=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;strokeColor=#1A1A1A;dashed=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="OEU-2yujjEtkwBlndGsu-7" value="" style="swimlane;startSize=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;strokeColor=#1A1A1A;dashed=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="10" width="250" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="OEU-2yujjEtkwBlndGsu-8" value="这是一个错误的流程" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#FF2E00;strokeColor=#FFFFFF;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;align=left;" vertex="1" parent="1">
+        <mxCell id="OEU-2yujjEtkwBlndGsu-8" value="这是一个错误的流程，节点都只有一个输入输出点。" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#FF2E00;strokeColor=#FFFFFF;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;align=left;" parent="1" vertex="1">
           <mxGeometry x="-140" y="-40" width="90" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="OEU-2yujjEtkwBlndGsu-9" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;" edge="1" parent="1" source="OEU-2yujjEtkwBlndGsu-8" target="OEU-2yujjEtkwBlndGsu-7">
+        <mxCell id="OEU-2yujjEtkwBlndGsu-9" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;" parent="1" source="OEU-2yujjEtkwBlndGsu-8" target="OEU-2yujjEtkwBlndGsu-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-50" y="70" as="sourcePoint" />
             <mxPoint x="20.710678118654755" y="20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OEU-2yujjEtkwBlndGsu-10" value="操作流程一般都是有开始、结束节点的" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#FFFECB;strokeColor=#FEA82F;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;align=left;" vertex="1" parent="1">
+        <mxCell id="OEU-2yujjEtkwBlndGsu-10" value="操作流程一般都是有开始、结束节点的" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#FFFECB;strokeColor=#FEA82F;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;align=left;" parent="1" vertex="1">
           <mxGeometry x="115" y="-130" width="90" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="OEU-2yujjEtkwBlndGsu-11" value="节点用方框，一般表示操作或者事件" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#FFFECB;strokeColor=#FEA82F;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;align=left;" vertex="1" parent="1">
+        <mxCell id="OEU-2yujjEtkwBlndGsu-11" value="节点用方框，一般表示操作或者事件" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#FFFECB;strokeColor=#FEA82F;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;align=left;" parent="1" vertex="1">
           <mxGeometry x="490" y="-60" width="100" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="QLsCSTX1UD4tIitnedBa-2" value="一个多余的考虑" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#FF2E00;strokeColor=#FFFFFF;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;align=left;" vertex="1" parent="1">
+        <mxCell id="QLsCSTX1UD4tIitnedBa-2" value="一个多余的考虑" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#FF2E00;strokeColor=#FFFFFF;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;align=left;" parent="1" vertex="1">
           <mxGeometry x="770" y="-10" width="80" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="QLsCSTX1UD4tIitnedBa-3" value="" style="swimlane;startSize=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;strokeColor=#1A1A1A;dashed=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="QLsCSTX1UD4tIitnedBa-3" value="" style="swimlane;startSize=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;strokeColor=#1A1A1A;dashed=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="170" width="270" height="180" as="geometry">
             <mxRectangle x="610" y="160" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QLsCSTX1UD4tIitnedBa-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=classic;endFill=1;" edge="1" parent="QLsCSTX1UD4tIitnedBa-3" source="QLsCSTX1UD4tIitnedBa-4" target="QLsCSTX1UD4tIitnedBa-6">
+        <mxCell id="QLsCSTX1UD4tIitnedBa-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=classic;endFill=1;" parent="QLsCSTX1UD4tIitnedBa-3" source="QLsCSTX1UD4tIitnedBa-4" target="QLsCSTX1UD4tIitnedBa-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QLsCSTX1UD4tIitnedBa-4" value="突然停电" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;" vertex="1" parent="QLsCSTX1UD4tIitnedBa-3">
+        <mxCell id="QLsCSTX1UD4tIitnedBa-4" value="突然停电" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;" parent="QLsCSTX1UD4tIitnedBa-3" vertex="1">
           <mxGeometry x="80" y="20" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QLsCSTX1UD4tIitnedBa-6" value="结束" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fontFamily=阿里汉仪智能黑体;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;" vertex="1" parent="QLsCSTX1UD4tIitnedBa-3">
+        <mxCell id="QLsCSTX1UD4tIitnedBa-6" value="结束" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fontFamily=阿里汉仪智能黑体;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;" parent="QLsCSTX1UD4tIitnedBa-3" vertex="1">
           <mxGeometry x="100" y="120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QLsCSTX1UD4tIitnedBa-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;" edge="1" parent="1" source="QLsCSTX1UD4tIitnedBa-2" target="QLsCSTX1UD4tIitnedBa-3">
+        <mxCell id="QLsCSTX1UD4tIitnedBa-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;" parent="1" source="QLsCSTX1UD4tIitnedBa-2" target="QLsCSTX1UD4tIitnedBa-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="719.2893218813452" y="130" as="sourcePoint" />
             <mxPoint x="719.2893218813452" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QLsCSTX1UD4tIitnedBa-9" value="明确流程的主体，不需要在图中发散太多异常场景。" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#FFFECB;strokeColor=#FEA82F;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;align=left;" vertex="1" parent="1">
+        <mxCell id="QLsCSTX1UD4tIitnedBa-9" value="明确流程的主体，不需要在图中发散太多异常场景。" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#FFFECB;strokeColor=#FEA82F;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;align=left;" parent="1" vertex="1">
           <mxGeometry x="610" y="40" width="100" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="ifcMIvCHkcKseI4FGqii-1" value="断电" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;" vertex="1" parent="1">
+        <mxCell id="ifcMIvCHkcKseI4FGqii-1" value="断电" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;" parent="1" vertex="1">
           <mxGeometry x="300" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ifcMIvCHkcKseI4FGqii-2" value="是" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;" edge="1" parent="1" source="RWPMWBLEITRf5Ue282e1-5" target="ifcMIvCHkcKseI4FGqii-1">
+        <mxCell id="ifcMIvCHkcKseI4FGqii-2" value="是" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;" parent="1" source="RWPMWBLEITRf5Ue282e1-5" target="ifcMIvCHkcKseI4FGqii-1" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="360" y="250" as="sourcePoint" />
             <mxPoint x="360" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ifcMIvCHkcKseI4FGqii-3" value="决策事件将【是】的分支保留为同侧：向下、向右" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#FFFECB;strokeColor=#FEA82F;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;rounded=1;align=left;" vertex="1" parent="1">
+        <mxCell id="ifcMIvCHkcKseI4FGqii-3" value="决策事件将【是】的分支保留为同侧：向下、向右" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#FFFECB;strokeColor=#FEA82F;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;rounded=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="440" y="340" width="110" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="ifcMIvCHkcKseI4FGqii-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;" edge="1" parent="1" source="ifcMIvCHkcKseI4FGqii-3" target="RWPMWBLEITRf5Ue282e1-9">
+        <mxCell id="ifcMIvCHkcKseI4FGqii-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;" parent="1" source="ifcMIvCHkcKseI4FGqii-3" target="RWPMWBLEITRf5Ue282e1-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="495" y="254.28932188134524" as="sourcePoint" />
             <mxPoint x="495" y="204.28932188134524" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XdJw_OBD-cgkMCHXnp1G-1" value="&lt;h1&gt;基本流程图&lt;/h1&gt;&lt;p style=&quot;&quot;&gt;&lt;font color=&quot;#1a1a1a&quot; style=&quot;font-size: 14px;&quot;&gt;用来表达场景的基本流程，让流程的展示更加直观，便于记忆和传播。&lt;/font&gt;&lt;/p&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="XdJw_OBD-cgkMCHXnp1G-1" value="&lt;h1&gt;基本流程图&lt;/h1&gt;&lt;p style=&quot;&quot;&gt;&lt;font color=&quot;#1a1a1a&quot; style=&quot;font-size: 14px;&quot;&gt;用来表达场景的基本流程，让流程的展示更加直观，便于记忆和传播。&lt;/font&gt;&lt;/p&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="40" y="-380" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Z0cyMaYatN1IHDbyLZWB-1" value="&lt;p style=&quot;font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 1.4em 0px; color: rgb(18, 18, 18); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; text-align: start; background-color: rgb(255, 255, 255);&quot; data-pid=&quot;Mma5n5jJ&quot;&gt;（1）绘制流程图时，为了提高流程图的逻辑性，应遵循从左到右、从上到下的顺序排列。&lt;/p&gt;&lt;p style=&quot;font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 1.4em 0px; color: rgb(18, 18, 18); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; text-align: start; background-color: rgb(255, 255, 255);&quot; data-pid=&quot;JJjL8fWx&quot;&gt;（2）一个流程从开始符开始，以结束符结束。开始符号只能出现一次，而结束符号可出现多次。若流程足够清晰，可省略开始、结束符号。&lt;/p&gt;&lt;p style=&quot;font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 1.4em 0px; color: rgb(18, 18, 18); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; text-align: start; background-color: rgb(255, 255, 255);&quot; data-pid=&quot;d_ZfgOeU&quot;&gt;（3）菱形为判断符号，必须要有“是和否（或Y和N）”两种处理结果，意思是说，菱形判断框一定需要有两条箭头流出；且判断符号的上下端流入流出一般用“是（或Y）”，左右端流入流出用“否（或Y）”。&lt;/p&gt;&lt;p style=&quot;font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 1.4em 0px; color: rgb(18, 18, 18); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; background-color: rgb(255, 255, 255);&quot; data-pid=&quot;3sLQkUTl&quot;&gt;（4）同一流程图内，符号大小需要保持一致，同时连接线不能交叉，连接线不能无故弯曲。&lt;/p&gt;&lt;p style=&quot;font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 1.4em 0px; color: rgb(18, 18, 18); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; background-color: rgb(255, 255, 255);&quot; data-pid=&quot;FO9f0R0t&quot;&gt;（5）流程处理关系为并行关系的，需要将流程放在同一高度。&lt;/p&gt;&lt;p style=&quot;font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 1.4em 0px; color: rgb(18, 18, 18); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; background-color: rgb(255, 255, 255);&quot; data-pid=&quot;hchd6MeK&quot;&gt;（6）必要时应采用标注，以此来清晰地说明流程，标注要用专门的标注符号。&lt;/p&gt;&lt;p style=&quot;font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 1.4em 0px; color: rgb(18, 18, 18); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; background-color: rgb(255, 255, 255);&quot; data-pid=&quot;BDISdHoK&quot;&gt;（7）处理流程须以单一入口和单一出口绘制，同一路径的指示箭头应只有一个。&lt;/p&gt;&lt;p style=&quot;font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 1.4em 0px; color: rgb(18, 18, 18); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; background-color: rgb(255, 255, 255);&quot; data-pid=&quot;BDISdHoK&quot;&gt;（8）同一路径的指示箭头应只有一个。&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 1.4em 0px; color: rgb(18, 18, 18); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; background-color: rgb(255, 255, 255);&quot; data-pid=&quot;BDISdHoK&quot;&gt;（9）流程图中，如果有参考其他已经定义的流程，不需重复绘制，直接用已定义流程符号即可。&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fontFamily=阿里汉仪智能黑体;fontColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="Z0cyMaYatN1IHDbyLZWB-1" value="&lt;p style=&quot;font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 1.4em 0px; color: rgb(18, 18, 18); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; text-align: start; background-color: rgb(255, 255, 255);&quot; data-pid=&quot;Mma5n5jJ&quot;&gt;（1）绘制流程图时，为了提高流程图的逻辑性，应遵循从左到右、从上到下的顺序排列。&lt;/p&gt;&lt;p style=&quot;font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 1.4em 0px; color: rgb(18, 18, 18); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; text-align: start; background-color: rgb(255, 255, 255);&quot; data-pid=&quot;JJjL8fWx&quot;&gt;（2）一个流程从开始符开始，以结束符结束。开始符号只能出现一次，而结束符号可出现多次。若流程足够清晰，可省略开始、结束符号。&lt;/p&gt;&lt;p style=&quot;font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 1.4em 0px; color: rgb(18, 18, 18); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; text-align: start; background-color: rgb(255, 255, 255);&quot; data-pid=&quot;d_ZfgOeU&quot;&gt;（3）菱形为判断符号，必须要有“是和否（或Y和N）”两种处理结果，意思是说，菱形判断框一定需要有两条箭头流出；且判断符号的上下端流入流出一般用“是（或Y）”，左右端流入流出用“否（或Y）”。&lt;/p&gt;&lt;p style=&quot;font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 1.4em 0px; color: rgb(18, 18, 18); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; background-color: rgb(255, 255, 255);&quot; data-pid=&quot;3sLQkUTl&quot;&gt;（4）同一流程图内，符号大小需要保持一致，同时连接线不能交叉，连接线不能无故弯曲。&lt;/p&gt;&lt;p style=&quot;font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 1.4em 0px; color: rgb(18, 18, 18); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; background-color: rgb(255, 255, 255);&quot; data-pid=&quot;FO9f0R0t&quot;&gt;（5）流程处理关系为并行关系的，需要将流程放在同一高度。&lt;/p&gt;&lt;p style=&quot;font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 1.4em 0px; color: rgb(18, 18, 18); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; background-color: rgb(255, 255, 255);&quot; data-pid=&quot;hchd6MeK&quot;&gt;（6）必要时应采用标注，以此来清晰地说明流程，标注要用专门的标注符号。&lt;/p&gt;&lt;p style=&quot;font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 1.4em 0px; color: rgb(18, 18, 18); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; background-color: rgb(255, 255, 255);&quot; data-pid=&quot;BDISdHoK&quot;&gt;（7）处理流程须以单一入口和单一出口绘制，同一路径的指示箭头应只有一个。&lt;/p&gt;&lt;p style=&quot;font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 1.4em 0px; color: rgb(18, 18, 18); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; background-color: rgb(255, 255, 255);&quot; data-pid=&quot;BDISdHoK&quot;&gt;（8）同一路径的指示箭头应只有一个。&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 1.4em 0px; color: rgb(18, 18, 18); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; background-color: rgb(255, 255, 255);&quot; data-pid=&quot;BDISdHoK&quot;&gt;（9）流程图中，如果有参考其他已经定义的流程，不需重复绘制，直接用已定义流程符号即可。&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fontFamily=阿里汉仪智能黑体;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="961" y="-95" width="560" height="610" as="geometry" />
         </mxCell>
-        <mxCell id="uLJsTBXCzgYsL3XrusuO-2" value="不符合规范 7，正确做法见左侧。" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#FF2E00;strokeColor=#FFFFFF;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;align=left;" vertex="1" parent="1">
+        <mxCell id="uLJsTBXCzgYsL3XrusuO-2" value="不符合规范 7，正确做法见左侧。" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#FF2E00;strokeColor=#FFFFFF;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;align=left;" parent="1" vertex="1">
           <mxGeometry x="650" y="570" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="uLJsTBXCzgYsL3XrusuO-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;fontColor=#1A1A1A;" edge="1" parent="1" source="uLJsTBXCzgYsL3XrusuO-2">
+        <mxCell id="uLJsTBXCzgYsL3XrusuO-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;fontColor=#1A1A1A;" parent="1" source="uLJsTBXCzgYsL3XrusuO-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="559.2893218813452" y="795" as="sourcePoint" />
             <mxPoint x="550" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uLJsTBXCzgYsL3XrusuO-5" value="修理灯" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;fontColor=#1A1A1A;strokeColor=#1A1A1A;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="uLJsTBXCzgYsL3XrusuO-5" value="修理灯" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;fontColor=#1A1A1A;strokeColor=#1A1A1A;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="300" y="570" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uLJsTBXCzgYsL3XrusuO-7" value="修理是一个另外详细的流程，这里可以不需要详细展开，作为新流程图绘制。" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#FFFECB;strokeColor=#FEA82F;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;rounded=1;align=left;" vertex="1" parent="1">
+        <mxCell id="uLJsTBXCzgYsL3XrusuO-7" value="修理是一个另外详细的流程，这里可以不需要详细展开，作为新流程图绘制。" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#FFFECB;strokeColor=#FEA82F;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;rounded=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="580" y="405" width="110" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="uLJsTBXCzgYsL3XrusuO-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;fontColor=#1A1A1A;" edge="1" parent="1" source="uLJsTBXCzgYsL3XrusuO-7" target="uLJsTBXCzgYsL3XrusuO-5">
+        <mxCell id="uLJsTBXCzgYsL3XrusuO-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;fontColor=#1A1A1A;" parent="1" source="uLJsTBXCzgYsL3XrusuO-7" target="uLJsTBXCzgYsL3XrusuO-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="509.28932188134524" y="520" as="sourcePoint" />
             <mxPoint x="509.28932188134524" y="470" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="pwJ4jMyIwFcZf0LILA7o" name="组件图">
+    <mxGraphModel dx="2249" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AczB4SDglP8XDqFTYmdm-1" value="«Component»&lt;br&gt;&lt;b&gt;View&lt;/b&gt;" style="html=1;dropTarget=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="210" y="150" width="330" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="AczB4SDglP8XDqFTYmdm-2" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;verticalAlign=top;" vertex="1" parent="AczB4SDglP8XDqFTYmdm-1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AczB4SDglP8XDqFTYmdm-3" value="«Component»&lt;br&gt;&lt;b&gt;ToolBar&lt;/b&gt;" style="html=1;dropTarget=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="300" y="702" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AczB4SDglP8XDqFTYmdm-4" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;verticalAlign=top;" vertex="1" parent="AczB4SDglP8XDqFTYmdm-3">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AczB4SDglP8XDqFTYmdm-5" value="«Component»&lt;br&gt;&lt;b&gt;Table&lt;/b&gt;" style="html=1;dropTarget=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="580" y="702" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AczB4SDglP8XDqFTYmdm-6" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;verticalAlign=top;" vertex="1" parent="AczB4SDglP8XDqFTYmdm-5">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AczB4SDglP8XDqFTYmdm-7" value="«Component»&lt;br&gt;&lt;b&gt;Tree&lt;/b&gt;" style="html=1;dropTarget=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="420" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AczB4SDglP8XDqFTYmdm-8" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;verticalAlign=top;" vertex="1" parent="AczB4SDglP8XDqFTYmdm-7">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AczB4SDglP8XDqFTYmdm-9" value="«Component»&lt;br&gt;&lt;b&gt;BusinessTable&lt;/b&gt;" style="html=1;dropTarget=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="440" y="400" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AczB4SDglP8XDqFTYmdm-10" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;verticalAlign=top;" vertex="1" parent="AczB4SDglP8XDqFTYmdm-9">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AczB4SDglP8XDqFTYmdm-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="AczB4SDglP8XDqFTYmdm-17" target="AczB4SDglP8XDqFTYmdm-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AczB4SDglP8XDqFTYmdm-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=none;endFill=0;" edge="1" parent="1" source="AczB4SDglP8XDqFTYmdm-17" target="AczB4SDglP8XDqFTYmdm-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AczB4SDglP8XDqFTYmdm-17" value="TableParams" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;rotation=0;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="380" y="615" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AczB4SDglP8XDqFTYmdm-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=none;endFill=0;" edge="1" parent="1" source="AczB4SDglP8XDqFTYmdm-22" target="AczB4SDglP8XDqFTYmdm-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AczB4SDglP8XDqFTYmdm-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="AczB4SDglP8XDqFTYmdm-22" target="AczB4SDglP8XDqFTYmdm-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AczB4SDglP8XDqFTYmdm-22" value="List" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;rotation=0;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="660" y="615" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AczB4SDglP8XDqFTYmdm-32" value="&lt;span style=&quot;color: rgb(18, 18, 18); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;需求接口（半圈）和提供接口（圆圈）的图设计得很有意思，一般两个组件连接，即一个组件的提供接口连接另一个组件的需求接口，这样表现出来的就是一个半圆半包裹着一个圆圈，很形象的表明类似插座，或者可互相嵌入的接口，所以从图中我们能够很直观的感受到组件之间是通过接口连接的，只要使用相同的接口，组件间可以随意替换。&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fontFamily=阿里汉仪智能黑体;" vertex="1" parent="1">
+          <mxGeometry x="800" y="430" width="560" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AczB4SDglP8XDqFTYmdm-33" value="" style="fontStyle=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=2;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="122" y="460" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AczB4SDglP8XDqFTYmdm-36" value="" style="fontStyle=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=2;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="196" y="270" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AczB4SDglP8XDqFTYmdm-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AczB4SDglP8XDqFTYmdm-36" target="AczB4SDglP8XDqFTYmdm-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AczB4SDglP8XDqFTYmdm-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=none;endFill=0;" edge="1" parent="1" source="AczB4SDglP8XDqFTYmdm-37" target="AczB4SDglP8XDqFTYmdm-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AczB4SDglP8XDqFTYmdm-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=none;endFill=0;" edge="1" parent="1" source="AczB4SDglP8XDqFTYmdm-37" target="AczB4SDglP8XDqFTYmdm-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AczB4SDglP8XDqFTYmdm-37" value="params" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;rotation=0;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="290" y="275" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AczB4SDglP8XDqFTYmdm-41" value="" style="fontStyle=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=2;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="425" y="460" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AczB4SDglP8XDqFTYmdm-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AczB4SDglP8XDqFTYmdm-42" target="AczB4SDglP8XDqFTYmdm-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AczB4SDglP8XDqFTYmdm-42" value="" style="fontStyle=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=2;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="380" y="307" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AczB4SDglP8XDqFTYmdm-46" value="params" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;rotation=0;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="290" y="275" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AczB4SDglP8XDqFTYmdm-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=none;endFill=0;" edge="1" parent="1" source="AczB4SDglP8XDqFTYmdm-47" target="AczB4SDglP8XDqFTYmdm-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AczB4SDglP8XDqFTYmdm-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;endArrow=none;endFill=0;" edge="1" parent="1" source="AczB4SDglP8XDqFTYmdm-47" target="AczB4SDglP8XDqFTYmdm-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AczB4SDglP8XDqFTYmdm-47" value="tableParams" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;rotation=0;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="520" y="465" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AczB4SDglP8XDqFTYmdm-51" value="" style="fontStyle=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=2;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="580" y="495" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -545,81 +673,6 @@
         </mxCell>
         <mxCell id="qtkRwHgVHN03jDVJklL6-44" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="605" y="131" width="30" height="30" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="pwJ4jMyIwFcZf0LILA7o" name="组件图">
-    <mxGraphModel dx="1418" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="gBENeIbKnuRdoazwzPab-1" value="Block" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="20" y="20" width="330" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="gBENeIbKnuRdoazwzPab-2" value="Block" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="430" y="20" width="330" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="gBENeIbKnuRdoazwzPab-3" value="Block" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="270" y="360" width="260" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="gBENeIbKnuRdoazwzPab-4" value="&amp;laquo;interface&amp;raquo;&lt;br&gt;&lt;b&gt;Name&lt;/b&gt;" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="60" y="90" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="gBENeIbKnuRdoazwzPab-5" value="Module" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="85" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gBENeIbKnuRdoazwzPab-6" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="260" y="180" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="gBENeIbKnuRdoazwzPab-7" value="Module" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="85" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gBENeIbKnuRdoazwzPab-8" value="&amp;laquo;interface&amp;raquo;&lt;br&gt;&lt;b&gt;Name&lt;/b&gt;" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="620" y="90" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="gBENeIbKnuRdoazwzPab-9" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="520" y="180" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="gBENeIbKnuRdoazwzPab-10" value="Module" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="410" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gBENeIbKnuRdoazwzPab-11" style="edgeStyle=none;rounded=0;html=1;dashed=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=8;endArrow=open;endFill=0;endSize=16;fontFamily=Verdana;fontSize=12;" parent="1" source="gBENeIbKnuRdoazwzPab-10" target="gBENeIbKnuRdoazwzPab-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gBENeIbKnuRdoazwzPab-12" style="edgeStyle=none;rounded=0;html=1;dashed=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=8;endArrow=open;endFill=0;endSize=16;fontFamily=Verdana;fontSize=12;" parent="1" source="gBENeIbKnuRdoazwzPab-3" target="gBENeIbKnuRdoazwzPab-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gBENeIbKnuRdoazwzPab-13" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=8;endArrow=none;endFill=0;endSize=16;fontFamily=Verdana;fontSize=12;" parent="1" source="gBENeIbKnuRdoazwzPab-9" target="gBENeIbKnuRdoazwzPab-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gBENeIbKnuRdoazwzPab-14" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=8;endArrow=none;endFill=0;endSize=16;fontFamily=Verdana;fontSize=12;" parent="1" source="gBENeIbKnuRdoazwzPab-6" target="gBENeIbKnuRdoazwzPab-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gBENeIbKnuRdoazwzPab-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=8;endArrow=open;endFill=0;endSize=16;fontFamily=Verdana;fontSize=12;dashed=1;" parent="1" source="gBENeIbKnuRdoazwzPab-5" target="gBENeIbKnuRdoazwzPab-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="250" y="170" />
-              <mxPoint x="115" y="170" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gBENeIbKnuRdoazwzPab-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=8;endArrow=open;endFill=0;endSize=16;fontFamily=Verdana;fontSize=12;" parent="1" source="gBENeIbKnuRdoazwzPab-7" target="gBENeIbKnuRdoazwzPab-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gBENeIbKnuRdoazwzPab-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=8;endArrow=none;endFill=0;endSize=16;fontFamily=Verdana;fontSize=12;" parent="1" source="gBENeIbKnuRdoazwzPab-3" target="gBENeIbKnuRdoazwzPab-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="595" y="435" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gBENeIbKnuRdoazwzPab-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=8;endArrow=none;endFill=0;endSize=16;fontFamily=Verdana;fontSize=12;" parent="1" source="gBENeIbKnuRdoazwzPab-3" target="gBENeIbKnuRdoazwzPab-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="185" y="435" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
