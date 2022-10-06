@@ -1,1 +1,120 @@
-<mxfile host="app.diagrams.net" modified="2022-10-06T06:30:08.844Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.3.6" etag="gXM7hGPk5C_54u8FmhSg" type="github"><diagram id="8sFs9aMRgm1iuRI3HQ6i">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-06T14:11:32.182Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="x-mUhgA170zCu3ey4Edo" version="20.3.6" type="github" pages="2">
+  <diagram id="GXhX6jC5iqUcomsxgwTn" name="基本符号">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Mg6yW10BVSfr79F43OK0-6" value="泳池" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="130" y="100" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6yW10BVSfr79F43OK0-8" value="泳道" style="swimlane;startSize=20;direction=east;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="400" y="420" width="100" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6yW10BVSfr79F43OK0-11" value="&lt;h1&gt;泳池&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(18, 18, 18); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; background-color: rgb(255, 255, 255);&quot;&gt;泳池是泳道图的一个外部框架，泳道、流程都包含于泳池里。&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="590" y="100" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6yW10BVSfr79F43OK0-12" value="&lt;h1&gt;泳道&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(18, 18, 18); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; background-color: rgb(255, 255, 255);&quot;&gt;泳池里可以创建多个泳道。&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="590" y="410" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6yW10BVSfr79F43OK0-13" value="泳道" style="swimlane;startSize=20;" vertex="1" parent="1">
+          <mxGeometry x="180" y="425" width="100" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6yW10BVSfr79F43OK0-14" value="泳池" style="swimlane;rotatable=1;container=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="380" y="100" width="140" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6yW10BVSfr79F43OK0-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="Mg6yW10BVSfr79F43OK0-15" target="Mg6yW10BVSfr79F43OK0-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mg6yW10BVSfr79F43OK0-20" value="省略..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="Mg6yW10BVSfr79F43OK0-17">
+          <mxGeometry x="0.2556" relative="1" as="geometry">
+            <mxPoint x="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mg6yW10BVSfr79F43OK0-15" value="开始" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="130" y="710" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6yW10BVSfr79F43OK0-18" value="结束" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="410" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6yW10BVSfr79F43OK0-21" value="&lt;h1&gt;流程&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(18, 18, 18); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; background-color: rgb(255, 255, 255);&quot;&gt;实际的业务流程。&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="590" y="680" width="190" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8sFs9aMRgm1iuRI3HQ6i" name="基本结构">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EPZ-zMadD5C4Gp11B3Kg-1" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="450" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="EPZ-zMadD5C4Gp11B3Kg-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" edge="1" parent="EPZ-zMadD5C4Gp11B3Kg-1" source="EPZ-zMadD5C4Gp11B3Kg-9" target="EPZ-zMadD5C4Gp11B3Kg-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPZ-zMadD5C4Gp11B3Kg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="EPZ-zMadD5C4Gp11B3Kg-1" source="EPZ-zMadD5C4Gp11B3Kg-16" target="EPZ-zMadD5C4Gp11B3Kg-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPZ-zMadD5C4Gp11B3Kg-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="EPZ-zMadD5C4Gp11B3Kg-1" source="EPZ-zMadD5C4Gp11B3Kg-16" target="EPZ-zMadD5C4Gp11B3Kg-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPZ-zMadD5C4Gp11B3Kg-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="EPZ-zMadD5C4Gp11B3Kg-1" source="EPZ-zMadD5C4Gp11B3Kg-15" target="EPZ-zMadD5C4Gp11B3Kg-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="340" />
+              <mxPoint x="400" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EPZ-zMadD5C4Gp11B3Kg-6" value="Lane 1" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="EPZ-zMadD5C4Gp11B3Kg-1">
+          <mxGeometry x="20" width="430" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EPZ-zMadD5C4Gp11B3Kg-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EPZ-zMadD5C4Gp11B3Kg-6" source="EPZ-zMadD5C4Gp11B3Kg-8" target="EPZ-zMadD5C4Gp11B3Kg-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPZ-zMadD5C4Gp11B3Kg-8" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EPZ-zMadD5C4Gp11B3Kg-6">
+          <mxGeometry x="40" y="40" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EPZ-zMadD5C4Gp11B3Kg-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="EPZ-zMadD5C4Gp11B3Kg-6">
+          <mxGeometry x="120" y="30" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EPZ-zMadD5C4Gp11B3Kg-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="EPZ-zMadD5C4Gp11B3Kg-6" source="EPZ-zMadD5C4Gp11B3Kg-11" target="EPZ-zMadD5C4Gp11B3Kg-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPZ-zMadD5C4Gp11B3Kg-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="EPZ-zMadD5C4Gp11B3Kg-6">
+          <mxGeometry x="240" y="30" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EPZ-zMadD5C4Gp11B3Kg-12" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EPZ-zMadD5C4Gp11B3Kg-6">
+          <mxGeometry x="360" y="40" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EPZ-zMadD5C4Gp11B3Kg-13" value="Lane 2" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="EPZ-zMadD5C4Gp11B3Kg-1">
+          <mxGeometry x="20" y="120" width="430" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EPZ-zMadD5C4Gp11B3Kg-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="EPZ-zMadD5C4Gp11B3Kg-13" source="EPZ-zMadD5C4Gp11B3Kg-15" target="EPZ-zMadD5C4Gp11B3Kg-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPZ-zMadD5C4Gp11B3Kg-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="EPZ-zMadD5C4Gp11B3Kg-13">
+          <mxGeometry x="120" y="30" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EPZ-zMadD5C4Gp11B3Kg-16" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="EPZ-zMadD5C4Gp11B3Kg-13">
+          <mxGeometry x="260" y="40" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EPZ-zMadD5C4Gp11B3Kg-17" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="EPZ-zMadD5C4Gp11B3Kg-1">
+          <mxGeometry x="20" y="240" width="430" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EPZ-zMadD5C4Gp11B3Kg-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="EPZ-zMadD5C4Gp11B3Kg-17" source="EPZ-zMadD5C4Gp11B3Kg-19" target="EPZ-zMadD5C4Gp11B3Kg-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPZ-zMadD5C4Gp11B3Kg-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="EPZ-zMadD5C4Gp11B3Kg-17">
+          <mxGeometry x="240" y="20" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EPZ-zMadD5C4Gp11B3Kg-20" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="EPZ-zMadD5C4Gp11B3Kg-17">
+          <mxGeometry x="360" y="30" width="40" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
