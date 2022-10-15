@@ -1,60 +1,202 @@
-<mxfile host="app.diagrams.net" modified="2022-10-10T13:33:15.308Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="3MRqJVqoRGgWLABK6IZj" version="20.3.7" type="github" pages="3">
-  <diagram id="B39I9dKCzlXgFTN8kYg3" name="概念">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="RYAseaVnfkrnpRY-kI1U-1" value="&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; color: rgb(86, 96, 115); font-family: &amp;quot;Open Sans Condensed&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, helvetica, arial, sans-serif; font-size: 22px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;数据流程图（Data Flow Diagram，DFD/Data Flow Chart）&lt;/p&gt;&lt;div style=&quot;box-sizing: border-box; color: rgb(86, 96, 115); font-family: &amp;quot;Open Sans Condensed&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, helvetica, arial, sans-serif; font-size: 22px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; class=&quot;para&quot;&gt;数据流程图是描述系统数据流程的工具，它将数据独立抽象出来，通过图形方式描述信息的来龙去脉和实际流程。它是一种能全面地描述信息系统逻辑模型的主要工具。它可以利用少数几种符号综合的反映出信息在系统中的流动、处理和存储的情况。数据流程图具有抽象性和概括性。&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="260" width="560" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="m8w7AtP6lzkXItdyQlOu-1" value="&lt;pre style=&quot;box-sizing: border-box; overflow: auto; font-family: monospace, monospace; font-size: 22px; color: rgb(86, 96, 115); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; class=&quot;best-text mb-10&quot;&gt;需要注意的是数据流图和程序设计中的程序流程图（Flow Chat）是不同的，&lt;/pre&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; font-family: monospace, monospace; font-size: 22px; color: rgb(86, 96, 115); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; class=&quot;best-text mb-10&quot;&gt;数据流图关心的是企业业务系统中的数据处理加工的客观过程，&lt;/pre&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; font-family: monospace, monospace; font-size: 22px; color: rgb(86, 96, 115); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; class=&quot;best-text mb-10&quot;&gt;并不关心未来电子化处理的加工过程；&lt;/pre&gt;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; font-family: monospace, monospace; font-size: 22px; color: rgb(86, 96, 115); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; class=&quot;best-text mb-10&quot;&gt;数据流图中流动的只是数据，并没有控制过程，但在程序流程图当中，必须有控制逻辑。&lt;/pre&gt;" style="text;html=1;fontSize=16;fontFamily=阿里汉仪智能黑体;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="150" y="510" width="920" height="200" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
+<mxfile host="app.diagrams.net" modified="2022-10-15T12:07:03.073Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="n4ZEq6DeyT66IMPmk_j5" version="20.4.0" type="github" pages="2">
   <diagram id="cBr9ChNsU1tGqRffmDF2" name="基本符号">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XE_Hi0BEHQyicuHPGzqu-1" value="外部实体" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="140" y="165" width="100" height="50" as="geometry" />
+        <mxCell id="XE_Hi0BEHQyicuHPGzqu-1" value="外部实体" style="html=1;dashed=0;whitespace=wrap;fontColor=#14161A;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="140" y="160" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XE_Hi0BEHQyicuHPGzqu-2" value="&lt;h1&gt;外部实体&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(18, 18, 18); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; background-color: rgb(255, 255, 255);&quot;&gt;指系统之外、又与系统有联系的人或事物，它表达了该系统数据的外部来源和去处；&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="130" width="200" height="135" as="geometry" />
+        <mxCell id="XE_Hi0BEHQyicuHPGzqu-3" value="数据加工" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;perimeter=ellipsePerimeter;fontColor=#14161A;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="315" y="160" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="XE_Hi0BEHQyicuHPGzqu-3" value="" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;perimeter=ellipsePerimeter;" vertex="1" parent="1">
-          <mxGeometry x="140" y="335" width="100" height="50" as="geometry" />
+        <mxCell id="XE_Hi0BEHQyicuHPGzqu-5" value="数据储存" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;fontColor=#14161A;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=16;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="510" y="170" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XE_Hi0BEHQyicuHPGzqu-4" value="&lt;h1&gt;数据加工&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(18, 18, 18); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; background-color: rgb(255, 255, 255);&quot;&gt;描述输入数据流到输出数据之间的变换，也就是输入数据流经过什么处理后变成了输出数据。&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="292.5" width="200" height="135" as="geometry" />
-        </mxCell>
-        <mxCell id="XE_Hi0BEHQyicuHPGzqu-5" value="" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="505" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XE_Hi0BEHQyicuHPGzqu-6" value="&lt;h1&gt;数据存储&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(18, 18, 18); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; background-color: rgb(255, 255, 255);&quot;&gt;某种数据保存后的逻辑统称，不是指保存数据的物理地点和物理介质。每个数据存储都有一个名字。&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="452.5" width="200" height="135" as="geometry" />
-        </mxCell>
-        <mxCell id="XE_Hi0BEHQyicuHPGzqu-7" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1">
+        <mxCell id="XE_Hi0BEHQyicuHPGzqu-7" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;fontColor=#14161A;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=16;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="695" as="sourcePoint" />
-            <mxPoint x="220" y="645" as="targetPoint" />
+            <mxPoint x="650" y="210" as="sourcePoint" />
+            <mxPoint x="700" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XE_Hi0BEHQyicuHPGzqu-8" value="&lt;h1&gt;数据流&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(18, 18, 18); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: medium; background-color: rgb(255, 255, 255);&quot;&gt;处理功能的输入/输出，箭头表示数据流向。&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="625" width="200" height="135" as="geometry" />
+        <mxCell id="qHVxth3ER2YsIVtnbxqx-5" value="数据流" style="edgeLabel;html=1;align=center;verticalAlign=top;resizable=0;points=[];fontFamily=阿里汉仪智能黑体;fontColor=#14161A;labelPosition=center;verticalLabelPosition=bottom;fontSize=16;" vertex="1" connectable="0" parent="XE_Hi0BEHQyicuHPGzqu-7">
+          <mxGeometry x="0.42" y="11" relative="1" as="geometry">
+            <mxPoint x="1" y="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qHVxth3ER2YsIVtnbxqx-2" value="数据存储" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;fontColor=#14161A;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=16;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="510" y="285" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qHVxth3ER2YsIVtnbxqx-4" value="带 ID 的数据存储" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=center;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fontColor=#14161A;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="510" y="400" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_rLngr57kwkvXvGFI8Ld-1" value="1" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="295" y="285" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="_rLngr57kwkvXvGFI8Ld-2" value="数据加工" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;fontSize=16;" vertex="1" parent="_rLngr57kwkvXvGFI8Ld-1">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="jdW26GXDXsRyTCGpOuLB" name="绘制细节">
-    <mxGraphModel dx="1422" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="y_vAhxcWGUDHmw0-VNdQ" name="基本结构">
+    <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RJJ7kxwnZgolQymDVD6z-1" value="&lt;p style=&quot;font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 1.4em 0px; color: rgb(18, 18, 18); font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot; data-pid=&quot;BN3vnVJP&quot;&gt;&lt;/p&gt;&lt;ol style=&quot;font-size: 16px;&quot;&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;画数据流而不是控制流。数据流反映系统“做什么”，不反映“如何做”，因此箭头上的数据流名称只能是名词或名词短语，整个图中不反映加工的执行顺序。&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;一般不画物质流。数据流反映能用计算机处理的数据，并不是实物，因此对目标系统的数据流图一般不要画物质流。&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;每个加工至少有一个输入数据流和一个输出数据流。&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;一个加工的输出数据流，不应与输入数据流同名，即使他们的组成完全相同。&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;外部实体之间不应该存在数据流，因为数据流的起点和终点中必须有一个是加工 。&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;如果一张数据流图中的某个加工分解成另一张数据流图时，则上层图为父图，直接下层图为子图。子图及其所有的加工都应编号（这一点，前面也提到过）。&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;父图与子图的平衡。父图中的某加工的输入输出流必须与他的子图的输入输出数据流在数量上和名字上相同，此即父图与子图的平衡。&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;当某层数据流图中的数据存储不是父图中相应加工的外部接口，而只是本图中某些加工之间的数据接口，则称这些数据存储为局部数据存储。&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; font-family: &amp;quot;Open Sans Condensed&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, helvetica, arial, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;数据流程图的绘制一般是从左到右进行。从左侧开始标出外部实体, 然后画出由外部实体产生的数据流, 再画出处理逻辑、数据流、数据存储等元素及其相互关系, 最后在流程图的右侧画出接收信息的系统外部实体。&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; font-family: &amp;quot;Open Sans Condensed&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, helvetica, arial, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;合理命名, 准确编号。对数据流程图的基本元素进行编号, 这样有利于编写数据字典及方便系统设计人员和用户的阅读与理解。&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; font-family: &amp;quot;Open Sans Condensed&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, helvetica, arial, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;数据处理流入/流出协调。只有流入没有流出, 则数据处理无需存在; 只有流出没有流入的数据处理不可能满足。&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; font-family: &amp;quot;Open Sans Condensed&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, helvetica, arial, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;数据存储输入/输出协调。数据存储必定有输入数据流和输出数据流, 缺少任何一个则意味着遗漏了某些加工。&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; font-family: &amp;quot;Open Sans Condensed&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, helvetica, arial, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;数据流至少有一端连接处理框。数据流不能直接从外部实体直接传送到数据存储, 也不能从数据存储直接传送到外部实体。&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px 0px 10px; font-family: &amp;quot;Open Sans Condensed&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, helvetica, arial, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;父图与子图的平衡。子图是对父图中处理逻辑的详细描述, 因此父图中数据的输入和输出必须在子图中反映。父图与子图的平衡是数据流守恒原则的体现, 即对每一个数据处理功能来说, 要保证分解前后的输入数据流与输出数据流的数目保持不变。&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p style=&quot;font-size: 16px;&quot;&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=阿里汉仪智能黑体;fontSource=https%3A%2F%2Fhellowebfonts.oss-cn-beijing.aliyuncs.com%2F698F3099-E62F-4C3B-B30A-04FB735069FE%2F202209%2F44C5C1037925EC78.ttf;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-1120" width="776" height="714" as="geometry" />
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-1" value="Database" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;shape=mxgraph.ios7ui.horLines;" vertex="1" parent="1">
+          <mxGeometry x="880" y="73" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-2" value="Database" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;shape=mxgraph.ios7ui.horLines;" vertex="1" parent="1">
+          <mxGeometry x="880" y="171" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-3" value="Output" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="690" y="23" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-4" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;startSize=8;endFill=1;endSize=8;fontFamily=Verdana;fontSize=12;rounded=0;" edge="1" parent="1" source="GEVV_XBzXDgWEk1C3Fzp-5" target="GEVV_XBzXDgWEk1C3Fzp-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-5" value="Input" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="30" y="21" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-6" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;startSize=8;endFill=1;endSize=8;fontFamily=Verdana;fontSize=12;rounded=0;" edge="1" parent="1" source="GEVV_XBzXDgWEk1C3Fzp-9" target="GEVV_XBzXDgWEk1C3Fzp-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-7" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;startSize=8;endFill=1;endSize=8;fontFamily=Verdana;fontSize=12;rounded=0;" edge="1" parent="1" source="GEVV_XBzXDgWEk1C3Fzp-9" target="GEVV_XBzXDgWEk1C3Fzp-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-8" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;startFill=0;startSize=8;endFill=1;endSize=8;fontFamily=Verdana;fontSize=12;rounded=0;" edge="1" parent="1" source="GEVV_XBzXDgWEk1C3Fzp-9" target="GEVV_XBzXDgWEk1C3Fzp-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="98" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-9" value="1.5" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="400" y="20" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-10" value="Row 1" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" vertex="1" parent="GEVV_XBzXDgWEk1C3Fzp-9">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-11" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;startFill=0;startSize=8;endFill=1;endSize=8;fontFamily=Verdana;fontSize=12;rounded=0;" edge="1" parent="1" source="GEVV_XBzXDgWEk1C3Fzp-12" target="GEVV_XBzXDgWEk1C3Fzp-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="948" y="432" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-12" value="Database" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;shape=mxgraph.ios7ui.horLines;" vertex="1" parent="1">
+          <mxGeometry x="880" y="346" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-13" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;startSize=8;endFill=1;endSize=8;fontFamily=Verdana;fontSize=12;rounded=0;" edge="1" parent="1" source="GEVV_XBzXDgWEk1C3Fzp-15" target="GEVV_XBzXDgWEk1C3Fzp-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540.0001622472457" y="145.9302333127779" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-14" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;startSize=8;endFill=1;endSize=8;fontFamily=Verdana;fontSize=12;rounded=0;" edge="1" parent="1" source="GEVV_XBzXDgWEk1C3Fzp-15" target="GEVV_XBzXDgWEk1C3Fzp-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-15" value="1.6" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="400" y="120" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-16" value="Row 1" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" vertex="1" parent="GEVV_XBzXDgWEk1C3Fzp-15">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-17" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;startSize=8;endFill=1;endSize=8;fontFamily=Verdana;fontSize=12;rounded=0;" edge="1" parent="1" source="GEVV_XBzXDgWEk1C3Fzp-18" target="GEVV_XBzXDgWEk1C3Fzp-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-18" value="1.2" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="220" y="119" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-19" value="Row 1" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" vertex="1" parent="GEVV_XBzXDgWEk1C3Fzp-18">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-20" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;startFill=0;startSize=8;endFill=1;endSize=8;fontFamily=Verdana;fontSize=12;rounded=0;" edge="1" parent="1" source="GEVV_XBzXDgWEk1C3Fzp-21" target="GEVV_XBzXDgWEk1C3Fzp-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="196" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-21" value="1.9" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="710" y="119" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-22" value="Row 1" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" vertex="1" parent="GEVV_XBzXDgWEk1C3Fzp-21">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-23" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;startSize=8;endFill=1;endSize=8;fontFamily=Verdana;fontSize=12;rounded=0;" edge="1" parent="1" source="GEVV_XBzXDgWEk1C3Fzp-24" target="GEVV_XBzXDgWEk1C3Fzp-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-24" value="1.3" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="220" y="271" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-25" value="Row 1" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" vertex="1" parent="GEVV_XBzXDgWEk1C3Fzp-24">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-26" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;startFill=0;startSize=8;endFill=1;endSize=8;fontFamily=Verdana;fontSize=12;rounded=0;" edge="1" parent="1" source="GEVV_XBzXDgWEk1C3Fzp-27" target="GEVV_XBzXDgWEk1C3Fzp-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="366" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-27" value="1.8" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="550" y="270" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-28" value="Row 1" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" vertex="1" parent="GEVV_XBzXDgWEk1C3Fzp-27">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-29" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;startSize=8;endFill=1;endSize=8;fontFamily=Verdana;fontSize=12;rounded=0;" edge="1" parent="1" source="GEVV_XBzXDgWEk1C3Fzp-30" target="GEVV_XBzXDgWEk1C3Fzp-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-30" value="1.1" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="20" y="406" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-31" value="Row 1" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" vertex="1" parent="GEVV_XBzXDgWEk1C3Fzp-30">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-32" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;startSize=8;endFill=1;endSize=8;fontFamily=Verdana;fontSize=12;rounded=0;" edge="1" parent="1" source="GEVV_XBzXDgWEk1C3Fzp-34" target="GEVV_XBzXDgWEk1C3Fzp-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-33" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;startSize=8;endFill=1;endSize=8;fontFamily=Verdana;fontSize=12;rounded=0;" edge="1" parent="1" source="GEVV_XBzXDgWEk1C3Fzp-34" target="GEVV_XBzXDgWEk1C3Fzp-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-34" value="1.4" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="220" y="406" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-35" value="Row 1" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" vertex="1" parent="GEVV_XBzXDgWEk1C3Fzp-34">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-36" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;startSize=8;endFill=1;endSize=8;fontFamily=Verdana;fontSize=12;rounded=0;" edge="1" parent="1" source="GEVV_XBzXDgWEk1C3Fzp-37" target="GEVV_XBzXDgWEk1C3Fzp-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-37" value="1.7" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="400" y="406" width="140" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-38" value="Row 1" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" vertex="1" parent="GEVV_XBzXDgWEk1C3Fzp-37">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-39" style="edgeStyle=orthogonalEdgeStyle;html=1;labelBackgroundColor=none;startFill=0;startSize=8;endFill=1;endSize=8;fontFamily=Verdana;fontSize=12;rounded=0;" edge="1" parent="1" source="GEVV_XBzXDgWEk1C3Fzp-40" target="GEVV_XBzXDgWEk1C3Fzp-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="145" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-40" value="Object" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="30" y="273" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-41" value="Object" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="410" y="273" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-42" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;startSize=8;endFill=1;endSize=8;fontFamily=Verdana;fontSize=12;rounded=0;" edge="1" parent="1" source="GEVV_XBzXDgWEk1C3Fzp-44" target="GEVV_XBzXDgWEk1C3Fzp-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-43" style="edgeStyle=none;html=1;labelBackgroundColor=none;startFill=0;startSize=8;endFill=1;endSize=8;fontFamily=Verdana;fontSize=12;rounded=0;" edge="1" parent="1" source="GEVV_XBzXDgWEk1C3Fzp-44" target="GEVV_XBzXDgWEk1C3Fzp-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GEVV_XBzXDgWEk1C3Fzp-44" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="605" y="131" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
