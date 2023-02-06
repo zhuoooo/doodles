@@ -1,10 +1,9 @@
-# 介绍
+## 介绍
 
 微前端完整方案的设计源图。
 
-- architecture.drawio：整体架构图
-- component.drawio：应用间的组件图，定义应用需要提供什么的接口和数据
-- registerApp.drawio：子应用动态接入的流程
-- technologySelection.drawio：前端项目进行微前端改造快速的方案选型
+- [architecture.drawio](https://viewer.diagrams.net/?highlight=0000ff&layers=1&nav=1&title=architecture.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fzhuoooo%2Fdoodles%2Fmain%2FmicroFrontend%2Farchitecture.drawio)：整体架构图
+- [component.drawio](https://viewer.diagrams.net/?highlight=0000ff&layers=1&nav=1&title=component.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fzhuoooo%2Fdoodles%2Fmain%2FmicroFrontend%2Fcomponent.drawio)：应用间的组件图，定义应用需要提供什么的接口和数据
+- [registerApp.drawio](https://viewer.diagrams.net/?highlight=0000ff&layers=1&nav=1&title=registerApp.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fzhuoooo%2Fdoodles%2Fmain%2FmicroFrontend%2FregisterApp.drawio)：子应用动态接入的流程
+- [technologySelection.drawio](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&layers=1&nav=1&title=technologySelection.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fzhuoooo%2Fdoodles%2Fmain%2FmicroFrontend%2FtechnologySelection.drawio)：前端项目进行微前端改造快速的方案选型
 
-[在线查看](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&page-id=GyyvgpNQD2YScgq6EcZ8&title=%E5%BE%AE%E6%9C%8D%E5%8A%A1%E8%AE%BE%E8%AE%A1%E5%9B%BE.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fzhuoooo%2Fdesign-diagram%2Fmain%2F%25E5%25BE%25AE%25E5%2589%258D%25E7%25AB%25AF%2F%25E5%25BE%25AE%25E6%259C%258D%25E5%258A%25A1%25E8%25AE%25BE%25E8%25AE%25A1%25E5%259B%25BE.drawio)

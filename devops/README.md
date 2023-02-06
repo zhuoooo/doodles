@@ -1,8 +1,8 @@
-# 说明
+## 介绍
 
-- cicd.drawio：devops全流程介绍
-- deploy.drawio：部署阶段介绍
-- team.drawio：团队模型介绍
+前端在 devops 转型时，需要进行的基础建设。
 
-[在线查看](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=CICD.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fzhuoooo%2Fdesign-diagram%2Fmain%2Fdevops%2FCICD.drawio)
+- [cicd.drawio](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&layers=1&nav=1&title=CICD.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fzhuoooo%2Fdoodles%2Fmain%2Fdevops%2FCICD.drawio)：devops全流程介绍
+- [deploy.drawio](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&layers=1&nav=1&title=CICD.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fzhuoooo%2Fdoodles%2Fmain%2Fdevops%2FCICD.drawio)：部署阶段介绍
+- [team.drawio](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&layers=1&nav=1&title=CICD.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fzhuoooo%2Fdoodles%2Fmain%2Fdevops%2FCICD.drawio)：团队模型介绍
 
