@@ -1,4 +1,6 @@
-# 说明
+# 介绍
+
+微前端完整方案的设计源图。
 
 - architecture.drawio：整体架构图
 - component.drawio：应用间的组件图，定义应用需要提供什么的接口和数据
