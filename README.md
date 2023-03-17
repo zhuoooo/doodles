@@ -1,6 +1,6 @@
 # doodles
 
-![](assets/doodles.png)
+![](https://cdn.jsdelivr.net/gh/zhuoooo/pictures/2023/doodles.png)
 
 没事画画图、沉淀技术方案，喜欢的话点 star，想订阅点 watch，请不要单纯地 fork。
 
