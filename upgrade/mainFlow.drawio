@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T11:07:01.451Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="h4V6a61OJhbi5-58sTsI" version="21.5.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-06-19T12:17:47.968Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="dtdtPfaHfJYPyGGmxZnW" version="21.5.0" type="github" pages="8">
   <diagram id="PymNksS7Rs0pl5-pKt_2" name="初始化流程">
-    <mxGraphModel dx="1434" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1430" dy="1891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,7 +21,7 @@
         <mxCell id="HOit7tT7TOtxw4wSdo0G-5" value="节点初始化" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="425" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HOit7tT7TOtxw4wSdo0G-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="HOit7tT7TOtxw4wSdo0G-7" target="HOit7tT7TOtxw4wSdo0G-23">
+        <mxCell id="HOit7tT7TOtxw4wSdo0G-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="e-UcZwQOhbJnPvZ7bJqq-2" target="HOit7tT7TOtxw4wSdo0G-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HOit7tT7TOtxw4wSdo0G-7" value="应用同步" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
@@ -86,13 +86,22 @@
           <mxGeometry x="425" y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HOit7tT7TOtxw4wSdo0G-23" value="结束" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="425" y="860" width="120" height="80" as="geometry" />
+          <mxGeometry x="425" y="1020" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e-UcZwQOhbJnPvZ7bJqq-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="HOit7tT7TOtxw4wSdo0G-7" target="e-UcZwQOhbJnPvZ7bJqq-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="485" y="800" as="sourcePoint" />
+            <mxPoint x="485" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-UcZwQOhbJnPvZ7bJqq-2" value="节点 harbor&amp;nbsp;&lt;br&gt;同步" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="425" y="890" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="一键多环境部署流程" id="FHRN5nl0X9A8jnxyASwP">
-    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1430" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,7 +174,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="E7nBFUuYBt5mcHYWC0Zn" name="新节点部署流程">
-    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1430" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -227,7 +236,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="INw4UtOU4OaKtTvvISeD" name="自动化同步流程">
-    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1430" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -260,6 +269,9 @@
         <mxCell id="7WYTtmUbJvLGpTc4OaYI-10" value="触发制品同步" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="354" y="360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="R6Y589WAzn8zwkLzaRod-3" value="同步" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="7WYTtmUbJvLGpTc4OaYI-11" target="R6Y589WAzn8zwkLzaRod-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7WYTtmUbJvLGpTc4OaYI-11" value="Harbor" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="384" y="480" width="60" height="80" as="geometry" />
         </mxCell>
@@ -278,7 +290,7 @@
         <mxCell id="7WYTtmUbJvLGpTc4OaYI-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7WYTtmUbJvLGpTc4OaYI-17" target="7WYTtmUbJvLGpTc4OaYI-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7WYTtmUbJvLGpTc4OaYI-17" value="同步应用" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="7WYTtmUbJvLGpTc4OaYI-17" value="同步制品" style="whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="660" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7WYTtmUbJvLGpTc4OaYI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7WYTtmUbJvLGpTc4OaYI-19" target="7WYTtmUbJvLGpTc4OaYI-20" edge="1">
@@ -288,13 +300,19 @@
           <mxGeometry x="660" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7WYTtmUbJvLGpTc4OaYI-20" value="结束" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="660" y="600" width="120" height="80" as="geometry" />
+          <mxGeometry x="660" y="610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R6Y589WAzn8zwkLzaRod-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="R6Y589WAzn8zwkLzaRod-1" target="7WYTtmUbJvLGpTc4OaYI-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R6Y589WAzn8zwkLzaRod-1" value="节点&lt;br&gt;Harbor" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="520" y="480" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="aiultd_m0UwVg6nzD6R6" name="部署可靠性">
-    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1430" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -350,7 +368,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="L3VDRIp_goK9dwwnv0wG" name="agent可靠性">
-    <mxGraphModel dx="1434" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1430" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -430,7 +448,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SLwPcjdn4VWNTf-pc8QN" name="可扩展性">
-    <mxGraphModel dx="1434" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1430" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -438,7 +456,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4i_Lz_V40gs-fq6KLvDS" name="可测试性">
-    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1430" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
