@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-28T02:21:28.649Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="kfxgsLJp3NxfY1Rl6AWd" version="21.6.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-08-02T09:29:19.332Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="LCIDlaYWkCZkQj4Z6fNp" version="21.6.2" type="github" pages="5">
   <diagram id="ZxEjnRGoBvc7GDNQgW_S" name="主流程">
-    <mxGraphModel dx="1430" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1430" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,7 +68,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="数据流图" id="zR5LukECyCP3TorBvOVq">
-    <mxGraphModel dx="1593" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1430" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -257,7 +257,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="m2T8EUuySyEy1uf0dPtj" name="泳道图">
-    <mxGraphModel dx="1430" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1430" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -514,7 +514,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Hl9EsFuRUGKLcGcnx5E_" name="执行流程">
-    <mxGraphModel dx="2257" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2257" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -612,6 +612,53 @@
         </mxCell>
         <mxCell id="qNZWUjENPOvp_KBGMKIB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="qNZWUjENPOvp_KBGMKIB-1" source="bBzh0YojnA6C_baNKH0q-12" target="bBzh0YojnA6C_baNKH0q-14">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="1Rn__D_yXLIWgLHMHOoW" name="运营">
+    <mxGraphModel dx="1430" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fWT5Kl9AfBWyUBjycJX3-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="fWT5Kl9AfBWyUBjycJX3-1" target="fWT5Kl9AfBWyUBjycJX3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fWT5Kl9AfBWyUBjycJX3-1" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="150" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fWT5Kl9AfBWyUBjycJX3-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="fWT5Kl9AfBWyUBjycJX3-2" target="fWT5Kl9AfBWyUBjycJX3-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fWT5Kl9AfBWyUBjycJX3-2" value="性能验收通过" style="whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="290" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="usOuAy0ePwOZlbxczAe4-2" value="收集" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="fWT5Kl9AfBWyUBjycJX3-6" target="usOuAy0ePwOZlbxczAe4-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fWT5Kl9AfBWyUBjycJX3-4" value="上线" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="490" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="usOuAy0ePwOZlbxczAe4-5" value="每周分析&lt;br style=&quot;font-size: 16px;&quot;&gt;汇总" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="usOuAy0ePwOZlbxczAe4-1" target="usOuAy0ePwOZlbxczAe4-6">
+          <mxGeometry x="-0.0032" relative="1" as="geometry">
+            <mxPoint x="550" y="530" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="usOuAy0ePwOZlbxczAe4-1" value="用户真实访问&lt;br style=&quot;font-size: 16px;&quot;&gt;性能数据" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="490" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="usOuAy0ePwOZlbxczAe4-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=16;" edge="1" parent="1" source="fWT5Kl9AfBWyUBjycJX3-4" target="fWT5Kl9AfBWyUBjycJX3-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="200" as="sourcePoint" />
+            <mxPoint x="550" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fWT5Kl9AfBWyUBjycJX3-6" value="线上 Sentry" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="490" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="usOuAy0ePwOZlbxczAe4-6" value="性能运营报告" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.reporting;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="300" y="374.7" width="80.75" height="90.6" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
