@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T03:50:16.637Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="JekNdf-dinpusThE31C8" version="22.1.21" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-23T09:02:48.024Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="4BCKd2sMYv-PfG2Wkef8" version="22.1.21" type="github" pages="2">
   <diagram name="启动应用" id="hbDIUZT85K4QuJ_lc52K">
     <mxGraphModel dx="1428" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,17 +113,11 @@
         <mxCell id="7d9sKj-4Yxy_ipLyJDSH-11" value="本地存在服务？" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fontFamily=微软雅黑;" vertex="1" parent="1">
           <mxGeometry x="610" y="442" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7d9sKj-4Yxy_ipLyJDSH-19" value="占用" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=16;fontFamily=微软雅黑;" edge="1" parent="1" source="7d9sKj-4Yxy_ipLyJDSH-13" target="7d9sKj-4Yxy_ipLyJDSH-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="7d9sKj-4Yxy_ipLyJDSH-13" value="本地" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=微软雅黑;" vertex="1" parent="1">
           <mxGeometry x="590" y="612" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7d9sKj-4Yxy_ipLyJDSH-15" value="测试环境" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=微软雅黑;" vertex="1" parent="1">
           <mxGeometry x="780" y="452" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7d9sKj-4Yxy_ipLyJDSH-18" value="10000 ~ 10010" style="fontStyle=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=2;fontSize=16;fontFamily=微软雅黑;" vertex="1" parent="1">
-          <mxGeometry x="770" y="612" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7d9sKj-4Yxy_ipLyJDSH-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7d9sKj-4Yxy_ipLyJDSH-25" target="7d9sKj-4Yxy_ipLyJDSH-29">
           <mxGeometry relative="1" as="geometry">
@@ -160,13 +154,13 @@
         <mxCell id="7d9sKj-4Yxy_ipLyJDSH-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="7d9sKj-4Yxy_ipLyJDSH-30" source="PIJ4ZpdSDfOjswG4X4ez-1" target="7d9sKj-4Yxy_ipLyJDSH-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7d9sKj-4Yxy_ipLyJDSH-24" value="10001" style="fontStyle=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=2;fontSize=16;fontFamily=微软雅黑;" vertex="1" parent="7d9sKj-4Yxy_ipLyJDSH-30">
+        <mxCell id="7d9sKj-4Yxy_ipLyJDSH-24" value="10001 ~ &#xa;10010" style="fontStyle=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=2;fontSize=16;fontFamily=微软雅黑;" vertex="1" parent="7d9sKj-4Yxy_ipLyJDSH-30">
           <mxGeometry x="380" y="140" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7d9sKj-4Yxy_ipLyJDSH-22" value="占用" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;endArrow=none;endFill=0;fontFamily=微软雅黑;" edge="1" parent="7d9sKj-4Yxy_ipLyJDSH-30" source="7d9sKj-4Yxy_ipLyJDSH-23" target="7d9sKj-4Yxy_ipLyJDSH-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PIJ4ZpdSDfOjswG4X4ez-3" value="pnpm dev" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=微软雅黑;" parent="7d9sKj-4Yxy_ipLyJDSH-30" source="PIJ4ZpdSDfOjswG4X4ez-1" target="PIJ4ZpdSDfOjswG4X4ez-2" edge="1">
+        <mxCell id="PIJ4ZpdSDfOjswG4X4ez-3" value="dev" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=微软雅黑;" parent="7d9sKj-4Yxy_ipLyJDSH-30" source="PIJ4ZpdSDfOjswG4X4ez-1" target="PIJ4ZpdSDfOjswG4X4ez-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
