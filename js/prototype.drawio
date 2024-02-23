@@ -1,0 +1,100 @@
+<mxfile host="app.diagrams.net" modified="2024-02-23T09:35:24.914Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="JqoLPR52JpDz0CYKILkE" version="22.1.21" type="device">
+  <diagram name="第 1 页" id="HCyBsoiFOZURK6ueyx_S">
+    <mxGraphModel dx="1428" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hDPzntoWV4MSSXqUHxLO-1" value="class A {}&#xa;class B extends A {}&#xa;&#xa;const b = new B();" style="text;whiteSpace=wrap;fontSize=18;fontFamily=Lucida Console;strokeColor=default;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="10" y="20" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SEq-qQel_ntafTFyJsgw-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=Lucida Console;fontColor=#FDAA1D;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="SEq-qQel_ntafTFyJsgw-1" target="SEq-qQel_ntafTFyJsgw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SEq-qQel_ntafTFyJsgw-4" value="__proto__" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Lucida Console;fontColor=#FDAA1D;" vertex="1" connectable="0" parent="SEq-qQel_ntafTFyJsgw-3">
+          <mxGeometry x="-0.175" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SEq-qQel_ntafTFyJsgw-1" value="b" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;fontSize=18;fontFamily=Lucida Console;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="675" y="794.5" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SEq-qQel_ntafTFyJsgw-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontFamily=Lucida Console;fontColor=#FDAA1D;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="SEq-qQel_ntafTFyJsgw-2" target="SEq-qQel_ntafTFyJsgw-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SEq-qQel_ntafTFyJsgw-7" value="constructor" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Lucida Console;fontColor=#FDAA1D;" vertex="1" connectable="0" parent="SEq-qQel_ntafTFyJsgw-6">
+          <mxGeometry x="0.075" relative="1" as="geometry">
+            <mxPoint x="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SEq-qQel_ntafTFyJsgw-16" value="__proto__" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;fontSize=16;fontFamily=Lucida Console;fontColor=#FDAA1D;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="SEq-qQel_ntafTFyJsgw-2" target="SEq-qQel_ntafTFyJsgw-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SEq-qQel_ntafTFyJsgw-2" value="B.prototype" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;fontSize=18;fontFamily=Lucida Console;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="620" y="680" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SEq-qQel_ntafTFyJsgw-28" value="__proto__" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;fontSize=16;fontFamily=Lucida Console;fontColor=#FDAA1D;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="SEq-qQel_ntafTFyJsgw-5" target="SEq-qQel_ntafTFyJsgw-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SEq-qQel_ntafTFyJsgw-5" value="B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;fontSize=18;fontFamily=Lucida Console;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="435" y="680" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SEq-qQel_ntafTFyJsgw-13" value="constructor" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;fontSize=16;fontFamily=Lucida Console;fontColor=#FDAA1D;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="SEq-qQel_ntafTFyJsgw-9" target="SEq-qQel_ntafTFyJsgw-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SEq-qQel_ntafTFyJsgw-27" value="__proto__" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;fontSize=16;fontFamily=Lucida Console;fontColor=#FDAA1D;sketch=1;curveFitting=1;jiggle=2;exitX=0.493;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SEq-qQel_ntafTFyJsgw-9" target="SEq-qQel_ntafTFyJsgw-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1075.0045454545455" y="685" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SEq-qQel_ntafTFyJsgw-9" value="A.prototype" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;fontSize=18;fontFamily=Lucida Console;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="620" y="560" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SEq-qQel_ntafTFyJsgw-15" value="__proto__" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;fontSize=16;fontFamily=Lucida Console;fontColor=#FDAA1D;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="SEq-qQel_ntafTFyJsgw-12" target="SEq-qQel_ntafTFyJsgw-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SEq-qQel_ntafTFyJsgw-12" value="A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;fontSize=18;fontFamily=Lucida Console;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="435" y="560" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SEq-qQel_ntafTFyJsgw-18" value="__proto__" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;fontSize=16;fontFamily=Lucida Console;fontColor=#FDAA1D;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="SEq-qQel_ntafTFyJsgw-14" target="SEq-qQel_ntafTFyJsgw-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1179" y="470" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SEq-qQel_ntafTFyJsgw-23" value="constructor" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;fontSize=16;fontFamily=Lucida Console;fontColor=#FDAA1D;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="SEq-qQel_ntafTFyJsgw-14" target="SEq-qQel_ntafTFyJsgw-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SEq-qQel_ntafTFyJsgw-14" value="Function.protoype" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;fontSize=18;fontFamily=Lucida Console;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="345" y="430" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SEq-qQel_ntafTFyJsgw-20" value="constructor" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;fontSize=16;fontFamily=Lucida Console;fontColor=#FDAA1D;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="SEq-qQel_ntafTFyJsgw-17" target="SEq-qQel_ntafTFyJsgw-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SEq-qQel_ntafTFyJsgw-26" value="__proto__" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;fontSize=16;fontFamily=Lucida Console;fontColor=#FDAA1D;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="SEq-qQel_ntafTFyJsgw-17" target="SEq-qQel_ntafTFyJsgw-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SEq-qQel_ntafTFyJsgw-17" value="Object.prototype" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;fontSize=18;fontFamily=Lucida Console;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="485" y="310" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SEq-qQel_ntafTFyJsgw-24" value="__proto__" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;fontSize=16;fontFamily=Lucida Console;fontColor=#FDAA1D;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="SEq-qQel_ntafTFyJsgw-19" target="SEq-qQel_ntafTFyJsgw-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SEq-qQel_ntafTFyJsgw-19" value="Object" style="html=1;align=center;verticalAlign=middle;resizable=0;autosize=1;strokeColor=default;fillColor=none;fontSize=18;fontFamily=Lucida Console;sketch=1;curveFitting=1;jiggle=2;shape=ellipse;perimeter=ellipsePerimeter;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="310" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SEq-qQel_ntafTFyJsgw-29" value="__proto__" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;fontSize=16;fontFamily=Lucida Console;fontColor=#FDAA1D;sketch=1;curveFitting=1;jiggle=2;strokeColor=#FF8F8F;" edge="1" parent="1" source="SEq-qQel_ntafTFyJsgw-22" target="SEq-qQel_ntafTFyJsgw-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SEq-qQel_ntafTFyJsgw-22" value="Function" style="html=1;align=center;verticalAlign=middle;resizable=0;autosize=1;strokeColor=default;fillColor=none;fontSize=18;fontFamily=Lucida Console;sketch=1;curveFitting=1;jiggle=2;shape=ellipse;perimeter=ellipsePerimeter;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="430" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SEq-qQel_ntafTFyJsgw-25" value="null" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;fontSize=18;fontFamily=Lucida Console;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="550" y="190" width="70" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
