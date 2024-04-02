@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-28T08:28:08.585Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="iaHL9oZvaw_25rrM1acB" version="24.1.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-02T08:08:37.662Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="AS-2Pwf8OhWBPaIxeios" version="24.1.0" type="github" pages="5">
   <diagram name="主流程" id="4JdRP81VfbvEzOmJ_fpm">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -300,7 +300,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="A4j2uWA-a8mbH8yoJ69X" name="work">
-    <mxGraphModel dx="607" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="603" dy="1873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -337,8 +337,8 @@
         <mxCell id="xW_aGHYC-vD64pPIpXCP-7" value="大语言模型" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1400" y="-30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xW_aGHYC-vD64pPIpXCP-8" value="NL2C&lt;div style=&quot;font-size: 16px;&quot;&gt;Code Review&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;...&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="300" width="120" height="140" as="geometry" />
+        <mxCell id="xW_aGHYC-vD64pPIpXCP-8" value="NL2C&lt;div style=&quot;line-height: 140%;&quot;&gt;UML&lt;/div&gt;&lt;div style=&quot;line-height: 140%;&quot;&gt;Docs&lt;br&gt;&lt;div style=&quot;font-size: 16px; line-height: 140%;&quot;&gt;Coding&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px; line-height: 140%;&quot;&gt;Test Code&lt;/div&gt;&lt;div style=&quot;font-size: 16px; line-height: 140%;&quot;&gt;Code Review&lt;/div&gt;&lt;div style=&quot;font-size: 16px; line-height: 140%;&quot;&gt;Tester&lt;/div&gt;&lt;div style=&quot;font-size: 16px; line-height: 140%;&quot;&gt;Git&lt;/div&gt;&lt;div style=&quot;font-size: 16px; line-height: 140%;&quot;&gt;...&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=16;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="260" width="140" height="220" as="geometry" />
         </mxCell>
         <mxCell id="xW_aGHYC-vD64pPIpXCP-9" value="Loop" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=微软雅黑;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1241" y="147.5" width="80" height="80" as="geometry" />
@@ -366,6 +366,29 @@
             <mxPoint x="1200" y="220" as="sourcePoint" />
             <mxPoint x="1200" y="140" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NUdA9MaMb6ZwlngIySrR" name="关联">
+    <mxGraphModel dx="1430" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oZww02M4zaetlP3amqcK-1" value="新增" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="180" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oZww02M4zaetlP3amqcK-2" value="编辑" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="320" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oZww02M4zaetlP3amqcK-3" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=微软雅黑;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="280" y="180" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="oZww02M4zaetlP3amqcK-5" value="删除" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="460" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oZww02M4zaetlP3amqcK-4" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=微软雅黑;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="420" y="180" width="64" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
