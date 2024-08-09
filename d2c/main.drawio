@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T08:08:37.662Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="AS-2Pwf8OhWBPaIxeios" version="24.1.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-08-09T02:02:03.993Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="JJrpKjkO9fkvjFDy9-wG" version="24.4.14" type="github" pages="6">
   <diagram name="主流程" id="4JdRP81VfbvEzOmJ_fpm">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -389,6 +389,38 @@
         </mxCell>
         <mxCell id="oZww02M4zaetlP3amqcK-4" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=微软雅黑;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="420" y="180" width="64" height="64" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="GSoXEMFFnRBKpsP0fFCw" name="第 6 页">
+    <mxGraphModel dx="1430" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="X2wAzqoPwunoz5NKp7b_-1" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Chart.svg;" vertex="1" parent="1">
+          <mxGeometry width="145.84" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="tfVhotEZozSUTeIfMRe6-2" value="theme/color" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="435" y="210" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tfVhotEZozSUTeIfMRe6-3" value="样式" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="135" y="210" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tfVhotEZozSUTeIfMRe6-4" value="数据编辑表单" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="460" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tfVhotEZozSUTeIfMRe6-5" value="JSON 编辑框" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="560" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tfVhotEZozSUTeIfMRe6-6" value="画布" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="250" y="440" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tfVhotEZozSUTeIfMRe6-9" value="idux/charts" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="285" y="210" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tfVhotEZozSUTeIfMRe6-10" value="样式配置表单" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="350" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
