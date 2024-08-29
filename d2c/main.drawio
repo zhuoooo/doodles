@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7" pages="5">
   <diagram name="主流程" id="4JdRP81VfbvEzOmJ_fpm">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -371,83 +371,24 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NUdA9MaMb6ZwlngIySrR" name="关联">
-    <mxGraphModel dx="1430" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1428" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oZww02M4zaetlP3amqcK-1" value="新增" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="oZww02M4zaetlP3amqcK-1" value="新增" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="180" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oZww02M4zaetlP3amqcK-2" value="编辑" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="oZww02M4zaetlP3amqcK-2" value="编辑" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="320" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oZww02M4zaetlP3amqcK-3" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=微软雅黑;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="oZww02M4zaetlP3amqcK-3" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=微软雅黑;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="280" y="180" width="64" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="oZww02M4zaetlP3amqcK-5" value="删除" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="oZww02M4zaetlP3amqcK-5" value="删除" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="460" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oZww02M4zaetlP3amqcK-4" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=微软雅黑;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="oZww02M4zaetlP3amqcK-4" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=微软雅黑;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="420" y="180" width="64" height="64" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="GSoXEMFFnRBKpsP0fFCw" name="第 6 页">
-    <mxGraphModel dx="1430" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="X2wAzqoPwunoz5NKp7b_-1" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Chart.svg;" parent="1" vertex="1">
-          <mxGeometry x="268" y="680" width="145.84" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="tfVhotEZozSUTeIfMRe6-2" value="theme/color" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="380" y="310" width="100" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="tfVhotEZozSUTeIfMRe6-3" value="样式" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="80" y="310" width="100" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="tfVhotEZozSUTeIfMRe6-4" value="数据编辑表单" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="460" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="tfVhotEZozSUTeIfMRe6-5" value="JSON 编辑框" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="560" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="tfVhotEZozSUTeIfMRe6-6" value="预览器" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="268" y="450" width="170" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="tfVhotEZozSUTeIfMRe6-9" value="idux/charts" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="230" y="310" width="100" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="tfVhotEZozSUTeIfMRe6-10" value="样式配置表单" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="350" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="OaNbqJqV5mnip-HBXRZI-1" value="设计稿" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="450" width="170" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="OaNbqJqV5mnip-HBXRZI-2" value="ChartOption" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="920" y="330" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OaNbqJqV5mnip-HBXRZI-3" value="D2C 平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="440" width="170" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="OaNbqJqV5mnip-HBXRZI-4" value="DSL" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="330" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OaNbqJqV5mnip-HBXRZI-5" value="code" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="330" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OaNbqJqV5mnip-HBXRZI-6" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="690" y="500" as="sourcePoint" />
-            <mxPoint x="850" y="500" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OaNbqJqV5mnip-HBXRZI-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1200" y="500" as="sourcePoint" />
-            <mxPoint x="1350" y="500" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
