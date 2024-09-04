@@ -59,7 +59,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VkBFl_bIkq6NCaeVSP6k" name="静态结构">
-    <mxGraphModel dx="1834" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1830" dy="704" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -176,7 +176,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="D3fe2JJ0G2juhucND6cV" name="数据流图">
-    <mxGraphModel dx="1428" dy="1864" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1430" dy="1904" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -267,7 +267,7 @@
         <mxCell id="fqi886mqyXJNkXJGD2bp-121" value="1" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=微软雅黑;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="310" y="-630" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fqi886mqyXJNkXJGD2bp-122" value="LCC 生态" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;fontSize=16;fontFamily=微软雅黑;" parent="fqi886mqyXJNkXJGD2bp-121" vertex="1">
+        <mxCell id="fqi886mqyXJNkXJGD2bp-122" value="图表低代码系统" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;fontSize=16;fontFamily=微软雅黑;" parent="fqi886mqyXJNkXJGD2bp-121" vertex="1">
           <mxGeometry y="26" width="140" height="34" as="geometry" />
         </mxCell>
         <mxCell id="fqi886mqyXJNkXJGD2bp-129" value="生成代码" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;fontFamily=微软雅黑;fontSize=16;" parent="1" source="fqi886mqyXJNkXJGD2bp-127" target="fqi886mqyXJNkXJGD2bp-76" edge="1">
@@ -710,15 +710,48 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AsY1KA_BNtlp8wTlGT_d" name="编辑器">
-    <mxGraphModel dx="1430" dy="664" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1830" dy="704" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yusLuwfW727xiWE2f_gI-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yusLuwfW727xiWE2f_gI-1" target="yusLuwfW727xiWE2f_gI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yusLuwfW727xiWE2f_gI-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-293" y="155" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="whEyNWBe5ZPQJKhg6rCu-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yusLuwfW727xiWE2f_gI-2" target="whEyNWBe5ZPQJKhg6rCu-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yusLuwfW727xiWE2f_gI-2" value="加载物料" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-303" y="295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="whEyNWBe5ZPQJKhg6rCu-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="whEyNWBe5ZPQJKhg6rCu-1" target="whEyNWBe5ZPQJKhg6rCu-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="whEyNWBe5ZPQJKhg6rCu-1" value="加载设置器" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-103" y="295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B_si811q0blEJsq_3Prd-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="whEyNWBe5ZPQJKhg6rCu-3" target="B_si811q0blEJsq_3Prd-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="whEyNWBe5ZPQJKhg6rCu-3" value="调整设置器属性" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="97" y="295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B_si811q0blEJsq_3Prd-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B_si811q0blEJsq_3Prd-1" target="B_si811q0blEJsq_3Prd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_si811q0blEJsq_3Prd-1" value="合成 DSL" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="297" y="295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B_si811q0blEJsq_3Prd-3" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="307" y="425" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="5AID8rId8CKKMRwJiqrz" name="设置器">
-    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1430" dy="704" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
