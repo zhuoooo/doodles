@@ -1,9 +1,78 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="第 1 页" id="FBco7bnzUruxGk8qchmY">
-    <mxGraphModel>
+    <mxGraphModel dx="1430" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zelOSM-nC8xmG-N5VxQk-5" value="热更新" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zelOSM-nC8xmG-N5VxQk-21" target="zelOSM-nC8xmG-N5VxQk-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zelOSM-nC8xmG-N5VxQk-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;startFill=0;" edge="1" parent="1" source="zelOSM-nC8xmG-N5VxQk-3" target="zelOSM-nC8xmG-N5VxQk-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zelOSM-nC8xmG-N5VxQk-22" value="触发" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zelOSM-nC8xmG-N5VxQk-3" target="zelOSM-nC8xmG-N5VxQk-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zelOSM-nC8xmG-N5VxQk-3" value="可交互系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zelOSM-nC8xmG-N5VxQk-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zelOSM-nC8xmG-N5VxQk-7" target="zelOSM-nC8xmG-N5VxQk-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zelOSM-nC8xmG-N5VxQk-7" value="需求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zelOSM-nC8xmG-N5VxQk-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zelOSM-nC8xmG-N5VxQk-8" target="zelOSM-nC8xmG-N5VxQk-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zelOSM-nC8xmG-N5VxQk-8" value="功能场景" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zelOSM-nC8xmG-N5VxQk-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zelOSM-nC8xmG-N5VxQk-10" target="zelOSM-nC8xmG-N5VxQk-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zelOSM-nC8xmG-N5VxQk-10" value="prompt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zelOSM-nC8xmG-N5VxQk-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zelOSM-nC8xmG-N5VxQk-12" target="zelOSM-nC8xmG-N5VxQk-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zelOSM-nC8xmG-N5VxQk-12" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="735" y="265" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zelOSM-nC8xmG-N5VxQk-16" value="访问系统" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zelOSM-nC8xmG-N5VxQk-14" target="zelOSM-nC8xmG-N5VxQk-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zelOSM-nC8xmG-N5VxQk-14" value="Chrome-MCP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zelOSM-nC8xmG-N5VxQk-19" value="修改代码" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zelOSM-nC8xmG-N5VxQk-24" target="zelOSM-nC8xmG-N5VxQk-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zelOSM-nC8xmG-N5VxQk-17" value="执行结果" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zelOSM-nC8xmG-N5VxQk-21" value="代码" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="180" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="zelOSM-nC8xmG-N5VxQk-1" value="静态页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zelOSM-nC8xmG-N5VxQk-21">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zelOSM-nC8xmG-N5VxQk-2" value="基础逻辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zelOSM-nC8xmG-N5VxQk-21">
+          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zelOSM-nC8xmG-N5VxQk-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zelOSM-nC8xmG-N5VxQk-17" target="zelOSM-nC8xmG-N5VxQk-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="430" as="sourcePoint" />
+            <mxPoint x="220" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zelOSM-nC8xmG-N5VxQk-24" value="过滤" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="440" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="zelOSM-nC8xmG-N5VxQk-25" value="元素问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="zelOSM-nC8xmG-N5VxQk-24">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
